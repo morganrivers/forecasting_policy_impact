@@ -2,7 +2,7 @@
 
 A preliminary demo framework for evaluating the effectiveness of language models in predicting the outcomes of policy interventions for environmental outcomes.
 
-## DISCLAIMER 🚨
+## DISCLAIMER
 
 **This project is currently in an experimental phase. The training data used by the language models may already include the results of the policy interventions being forecasted, which could artificially inflate performance metrics.**
 
