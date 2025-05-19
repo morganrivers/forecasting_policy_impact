@@ -82,9 +82,9 @@ See (Halawi et. al., 2024) for the "reference point" numbers in the table below.
 | Metric                                            | GPT4.1 single-shot | Always "Significant" baseline | Random baseline | Reference points                                                                                           |
 | ------------------------------------------------- | ---------- | -------------------- | --------------- | ---------------------------------------------------------------------------------------------------------- |
 | **RMSE** (0 ➜ "worsened", 1 ➜ "very significant") | **0.308**  | 0.306                | 0.498           | –                                                                                                          |
-| **Accuracy** (exact 5-class match)                | **48 %**   | **51 %**             | 20 %            | –                                                                                                          |
+| **Accuracy** (exact 5-class match)                | 48 %   | **51 %**             | 20 %            | –                                                                                                          |
 | **Macro-F1**                                      | 0.334      | –                    | –               | –                                                                                                          |
-| **Brier (binary "positive" ≥ 0.75)**              | **0.203**  | 0.206                | 0.250           | • human crowd on geopolitical forecasting tournaments ≈ 0.149 <br>• GPT-4 zero-shot on the same benchmark ≈ 0.208  |
+| **Brier (binary "positive" ≥ 0.75)**              | **0.203**  | 0.206                | 0.250           | • human crowd on real forecasting tournaments ≈ 0.149 <br>• GPT-4 zero-shot on the geopolitical forecasting benchmark ≈ 0.208  |
 
 
 ## Interpretation of Results
