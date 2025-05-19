@@ -2,7 +2,7 @@
 
 A preliminary demo framework for evaluating the effectiveness of language models in predicting the outcomes of policy interventions for environmental outcomes.
 
-## 🚨 IMPORTANT DISCLAIMER 🚨
+## DISCLAIMER 🚨
 
 **This project is currently in an experimental phase. The training data used by the language models may already include the results of the policy interventions being forecasted, which could artificially inflate performance metrics.**
 
@@ -86,9 +86,6 @@ See (Halawi et. al., 2024) for the "reference point" numbers in the table below.
 | **Macro-F1**                                      | 0.334      | –                    | –               | –                                                                                                          |
 | **Brier (binary "positive" ≥ 0.75)**              | **0.203**  | 0.206                | 0.250           | • human crowd on geopolitical forecasting tournaments ≈ 0.149 <br>• GPT-4 zero-shot on the same benchmark ≈ 0.208  |
 
-### 🚨 DISCLAIMER ON RESULTS 🚨
-
-The current model's performance may be influenced by the fact that the LLM training data potentially includes information about these intervention outcomes. **Future work will focus on forecasting truly novel policies where results are not present in the training data.**
 
 ## Interpretation of Results
 
