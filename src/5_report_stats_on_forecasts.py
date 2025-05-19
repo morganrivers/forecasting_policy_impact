@@ -131,7 +131,7 @@ def main(truth, forecasts):
 
 if __name__ == "__main__":
     p = argparse.ArgumentParser(description="Evaluate grade forecasts")
-    p.add_argument("--truth", default="abstract_outcome_grades.yaml")
-    p.add_argument("--forecasts", default="abstract_outcome_forecasts.yaml")
+    p.add_argument("--truth", default="../data/abstract_outcome_grades.yaml")
+    p.add_argument("--forecasts", default="../data/abstract_outcome_forecasts.yaml")
     args = p.parse_args()
     main(args.truth, args.forecasts)
