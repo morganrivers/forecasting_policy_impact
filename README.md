@@ -77,13 +77,14 @@ The script also compares against two baselines:
 - Random grade baseline
 
 ## Results (133 impact forecasts, for impact evaluations published in 2024)
+See (Halawi et. al., 2024) for the "reference point" numbers in the table below.
 
 | Metric                                            | GPT4.1 single-shot | Always "Significant" baseline | Random baseline | Reference points                                                                                           |
 | ------------------------------------------------- | ---------- | -------------------- | --------------- | ---------------------------------------------------------------------------------------------------------- |
 | **RMSE** (0 ➜ "worsened", 1 ➜ "very significant") | **0.308**  | 0.306                | 0.498           | –                                                                                                          |
 | **Accuracy** (exact 5-class match)                | **48 %**   | **51 %**             | 20 %            | –                                                                                                          |
 | **Macro-F1**                                      | 0.334      | –                    | –               | –                                                                                                          |
-| **Brier (binary "positive" ≥ 0.75)**              | **0.203**  | 0.206                | 0.250           | • human crowd on real forecasting tournaments ≈ 0.149 <br>• GPT-4 zero-shot on the same benchmark ≈ 0.208  |
+| **Brier (binary "positive" ≥ 0.75)**              | **0.203**  | 0.206                | 0.250           | • human crowd on geopolitical forecasting tournaments ≈ 0.149 <br>• GPT-4 zero-shot on the same benchmark ≈ 0.208  |
 
 ### 🚨 DISCLAIMER ON RESULTS 🚨
 
@@ -92,16 +93,18 @@ The current model's performance may be influenced by the fact that the LLM train
 ## Interpretation of Results
 
 - The model shows ability to extract signal (Brier score of 0.203 vs. random baseline of 0.250)
-- Performance is comparable to zero-shot GPT-4 but trails human forecaster aggregates
-- With only 133 overlapping records scored, small sample size effects should be considered
-- Current performance falls between median human forecasters and elite forecasting aggregates
+- Performance is comparable to zero-shot GPT-4 but trails human forecaster aggregates on geopolitical forecasts, which is approximately 0.149 (Halawi et. al., 2024)
+- With only 133 records scored, small sample size effects should be considered
+- Current (0.203) performance falls between median human forecasters (0.203) and elite forecasting aggregates (0.149)
+- **Assuming data contamination is not significantly improving forecasting accuracy**, we can expect an improvement of approximately  (0.208 - 0.179 = 0.029) from fine-tuning to a forecasting accuracy of approximately 0.174 using techniques from (Halawi et. al., 2024).
+
 
 ## Next Steps
 
 1. **Data integrity**: Collect new data from sources like Web of Science and Scopus
 2. **Retrieval enhancement**: Add contextual retrieval and structured reasoning steps
 3. **Ensemble methods**: Average forecasts with baseline models or human seed data
-4. **Fine-tuning**: Apply fine-tuning of gpt4.1 to improve probability calibration
+4. **Fine-tuning**: Switch to gpt4, apply fine-tuning of gpt4 to improve probability calibration
 
 ## Setup and Usage
 
@@ -155,3 +158,7 @@ The `scripts/` directory contains utility scripts for analyzing the dataset:
 - `data/abstract_outcome_grades.yaml`: Graded outcomes
 - `data/abstract_outcome_forecasts.yaml`: Model forecasts
 - `data/all_record_urls.txt`: Source record URLs
+
+
+# References
+Halawi, D., Zhang, F., Yueh-Han, C., & Steinhardt, J. (2024). Approaching human-level forecasting with language models. arXiv preprint arXiv:2402.18563.
