@@ -1,0 +1,5961 @@
+- record_id: R00001
+  term: Forest coverage
+  grade: Significant
+- record_id: R00001
+  term: Vegetation levels
+  grade: Very significant
+- record_id: R00001
+  term: Bushland preservation
+  grade: Very significant
+- record_id: R00001
+  term: Index environmental protection
+  grade: Significant
+- record_id: R00001
+  term: Household economic well-being
+  grade: Significant
+- record_id: R00001
+  term: Household livelihood
+  grade: Significant
+- record_id: R00001
+  term: Employment status
+  grade: Outcome was worsened
+- record_id: R00002
+  term: Storage-related crop losses
+  grade: Significant
+- record_id: R00002
+  term: Other crop quality
+  grade: Significant
+- record_id: R00003
+  term: Household economic well-being
+  grade: Neutral/mixed results
+- record_id: R00005
+  term: Food security index
+  grade: Significant
+- record_id: R00005
+  term: Income from livestock
+  grade: Significant
+- record_id: R00005
+  term: Household livelihood
+  grade: Significant
+- record_id: R00006
+  term: Allocation of public funds or goods
+  grade: Neutral/mixed results
+- record_id: R00006
+  term: Access to water
+  grade: Outcome was worsened
+- record_id: R00006
+  term: Water supply
+  grade: Outcome was worsened
+- record_id: R00007
+  term: New latrine or toilet construction
+  grade: Significant
+- record_id: R00007
+  term: Latrine or toilet ownership
+  grade: Significant
+- record_id: R00007
+  term: Open defecation
+  grade: Significant
+- record_id: R00007
+  term: Handwashing behaviour
+  grade: Neutral/mixed results
+- record_id: R00007
+  term: Latrine or toilet access
+  grade: Significant
+- record_id: R00008
+  term: Air pollution
+  grade: Significant
+- record_id: R00008
+  term: Greenhouse gas emissions
+  grade: Significant
+- record_id: R00008
+  term: Overall environmental performance
+  grade: Significant
+- record_id: R00009
+  term: Index of transport infrastructure quality & maintenance
+  grade: Neutral/mixed results
+- record_id: R00009
+  term: Transport infrastructure repair
+  grade: Neutral/mixed results
+- record_id: R00009
+  term: Total government revenue
+  grade: Very significant
+- record_id: R00009
+  term: Poverty status
+  grade: No effect
+- record_id: R00009
+  term: Income inequality
+  grade: No effect
+- record_id: R00011
+  term: Income from crop production
+  grade: significant
+- record_id: R00011
+  term: Aggregate crop yield
+  grade: significant
+- record_id: R00012
+  term: Wheat yield
+  grade: significant
+- record_id: R00012
+  term: Maize yield
+  grade: no effect
+- record_id: R00015
+  term: Forest coverage
+  grade: significant
+- record_id: R00015
+  term: Deforestation
+  grade: very significant
+- record_id: R00016
+  term: Income from crop production
+  grade: very significant
+- record_id: R00016
+  term: Income from livestock
+  grade: neutral/mixed results
+- record_id: R00016
+  term: Income from non-farm employment
+  grade: very significant
+- record_id: R00016
+  term: Overall household income
+  grade: very significant
+- record_id: R00016
+  term: Livestock amount
+  grade: significant
+- record_id: R00017
+  term: Index of access to energy
+  grade: very significant
+- record_id: R00017
+  term: Cost/price of energy
+  grade: no effect
+- record_id: R00017
+  term: Reliability of electricity
+  grade: very significant
+- record_id: R00017
+  term: Energy used for cooking
+  grade: no effect
+- record_id: R00018
+  term: Overuse of inorganic fertiliser
+  grade: significant
+- record_id: R00018
+  term: Overuse of pesticides
+  grade: neutral/mixed results
+- record_id: R00019
+  term: Water supply
+  grade: significant
+- record_id: R00019
+  term: Investment in productive assets
+  grade: significant
+- record_id: R00019
+  term: Index of employment
+  grade: significant
+- record_id: R00020
+  term: Index of water supply and irrigation for agriculture
+  grade: outcome was worsened
+- record_id: R00020
+  term: Water used for irrigation
+  grade: outcome was worsened
+- record_id: R00022
+  term: Household asset inventory
+  grade: neutral/mixed results
+- record_id: R00022
+  term: Social trust
+  grade: outcome was worsened
+- record_id: R00022
+  term: Household economic well-being
+  grade: neutral/mixed results
+- record_id: R00023
+  term: Overall household income
+  grade: no effect
+- record_id: R00023
+  term: Income from forestry
+  grade: significant
+- record_id: R00024
+  term: Storage-related crop losses
+  grade: no effect
+- record_id: R00024
+  term: Safe food storage
+  grade: neutral/mixed results
+- record_id: R00025
+  term: Dietary diversity
+  grade: no information
+- record_id: R00025
+  term: Anaemia
+  grade: no information
+- record_id: R00025
+  term: Livelihoods - health
+  grade: no information
+- record_id: R00025
+  term: Height
+  grade: no information
+- record_id: R00025
+  term: Mental health
+  grade: no information
+- record_id: R00025
+  term: Aggregate crop yield
+  grade: no information
+- record_id: R00025
+  term: Early childhood development
+  grade: no information
+- record_id: R00025
+  term: Overall household income
+  grade: no information
+- record_id: R00026
+  term: Overall environmental performance
+  grade: very significant
+- record_id: R00027
+  term: Rice yield
+  grade: significant
+- record_id: R00027
+  term: Income from crop production
+  grade: significant
+- record_id: R00028
+  term: Biological diversity
+  grade: outcome was worsened
+- record_id: R00028
+  term: On-farm work time
+  grade: outcome was worsened
+- record_id: R00028
+  term: Crop diversification
+  grade: outcome was worsened
+- record_id: R00029
+  term: Deforestation
+  grade: significant
+- record_id: R00031
+  term: Household energy consumption
+  grade: significant
+- record_id: R00031
+  term: Traditional fuel consumption
+  grade: significant
+- record_id: R00032
+  term: Traditional fuel consumption
+  grade: significant
+- record_id: R00032
+  term: Household energy consumption
+  grade: significant
+- record_id: R00032
+  term: Overall household income
+  grade: very significant
+- record_id: R00032
+  term: Household expenditure on energy
+  grade: significant
+- record_id: R00032
+  term: Household economic well-being
+  grade: very significant
+- record_id: R00032
+  term: Time collecting firewood
+  grade: significant
+- record_id: R00032
+  term: Land holdings
+  grade: no information
+- record_id: R00033
+  term: Forest coverage
+  grade: outcome was worsened
+- record_id: R00033
+  term: Vegetation levels
+  grade: outcome was worsened
+- record_id: R00035
+  term: Aggregate crop yield
+  grade: significant
+- record_id: R00037
+  term: Index of water supply and irrigation for agriculture
+  grade: no information
+- record_id: R00037
+  term: Index of employment
+  grade: no information
+- record_id: R00039
+  term: Water pollution
+  grade: significant
+- record_id: R00039
+  term: Air pollution
+  grade: significant
+- record_id: R00040
+  term: Water pollution
+  grade: significant
+- record_id: R00040
+  term: Overall environmental performance
+  grade: significant
+- record_id: R00041
+  term: Income from agriculture
+  grade: outcome was worsened
+- record_id: R00044
+  term: Low birth weight
+  grade: very significant
+- record_id: R00044
+  term: Indoor air pollution
+  grade: significant
+- record_id: R00046
+  term: Rice yield
+  grade: significant
+- record_id: R00046
+  term: Income from crop production
+  grade: significant
+- record_id: R00046
+  term: Migration
+  grade: significant
+- record_id: R00047
+  term: Crop diversification
+  grade: neutral/mixed results
+- record_id: R00047
+  term: Egg production
+  grade: significant
+- record_id: R00047
+  term: Index of dairy production
+  grade: neutral/mixed results
+- record_id: R00047
+  term: Fish production
+  grade: significant
+- record_id: R00047
+  term: Dietary diversity
+  grade: significant
+- record_id: R00047
+  term: Food consumption
+  grade: significant
+- record_id: R00047
+  term: Overall crop production
+  grade: neutral/mixed results
+- record_id: R00048
+  term: Dietary diversity
+  grade: very significant
+- record_id: R00048
+  term: Income from non-farm employment
+  grade: significant
+- record_id: R00048
+  term: Crop diversification
+  grade: very significant
+- record_id: R00048
+  term: Household livelihood
+  grade: very significant
+- record_id: R00048
+  term: Investment in productive assets
+  grade: significant
+- record_id: R00049
+  term: Deforestation
+  grade: neutral/mixed results
+- record_id: R00050
+  term: Deforestation
+  grade: neutral/mixed results
+- record_id: R00051
+  term: Aggregate crop yield
+  grade: significant
+- record_id: R00051
+  term: Area allocated to crops
+  grade: significant
+- record_id: R00052
+  term: Area allocated to crops
+  grade: significant
+- record_id: R00052
+  term: Income from crop production
+  grade: neutral/mixed results
+- record_id: R00052
+  term: Overall household income
+  grade: no effect
+- record_id: R00053
+  term: Maize yield
+  grade: neutral/mixed results
+- record_id: R00054
+  term: Forest coverage
+  grade: significant
+- record_id: R00054
+  term: Deforestation
+  grade: significant
+- record_id: R00055
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00056
+  term: Greenhouse gas emissions
+  grade: outcome was worsened
+- record_id: R00056
+  term: Household energy consumption
+  grade: significant
+- record_id: R00056
+  term: Index of energy and efficiency
+  grade: significant
+- record_id: R00058
+  term: Air pollution
+  grade: significant
+- record_id: R00059
+  term: Aggregate crop yield
+  grade: significant
+- record_id: R00060
+  term: Deforestation
+  grade: very significant
+- record_id: R00060
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00061
+  term: Deforestation
+  grade: neutral/mixed results
+- record_id: R00061
+  term: Greenhouse gas emissions
+  grade: neutral/mixed results
+- record_id: R00062
+  term: Deforestation
+  grade: significant
+- record_id: R00062
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00064
+  term: Product quality
+  grade: significant
+- record_id: R00064
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00064
+  term: Air pollution
+  grade: significant
+- record_id: R00065
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00067
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00068
+  term: Air pollution
+  grade: very significant
+- record_id: R00068
+  term: Index of mortality
+  grade: very significant
+- record_id: R00069
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00069
+  term: Air pollution
+  grade: significant
+- record_id: R00070
+  term: Water pollution due to agricultural activities
+  grade: very significant
+- record_id: R00074
+  term: Resilience
+  grade: significant
+- record_id: R00075
+  term: Weather and natural disasters
+  grade: no effect
+- record_id: R00075
+  term: Weather-related crop losses
+  grade: no effect
+- record_id: R00076
+  term: Chemical exposure from agricultural chemicals
+  grade: no information
+- record_id: R00077
+  term: Water supply volume
+  grade: neutral/mixed results
+- record_id: R00077
+  term: Water use in agriculture
+  grade: neutral/mixed results
+- record_id: R00077
+  term: Water supply
+  grade: neutral/mixed results
+- record_id: R00077
+  term: Fresh water usage
+  grade: neutral/mixed results
+- record_id: R00078
+  term: Uptake of safe waste disposal practices
+  grade: significant
+- record_id: R00080
+  term: New latrine or toilet construction
+  grade: very significant
+- record_id: R00086
+  term: Willingness to pay for water
+  grade: no information
+- record_id: R00087
+  term: Typical water consumption
+  grade: significant
+- record_id: R00089
+  term: Wind energy generation
+  grade: outcome was worsened
+- record_id: R00090
+  term: Import activity
+  grade: very significant
+- record_id: R00090
+  term: Overall crop production
+  grade: outcome was worsened
+- record_id: R00090
+  term: Export activity
+  grade: very significant
+- record_id: R00091
+  term: Overuse of inorganic fertiliser
+  grade: very significant
+- record_id: R00093
+  term: Livestock amount
+  grade: outcome was worsened
+- record_id: R00093
+  term: Animal/livestock growth and nutrition
+  grade: outcome was worsened
+- record_id: R00093
+  term: Sheep production
+  grade: outcome was worsened
+- record_id: R00093
+  term: Beef/cattle production
+  grade: outcome was worsened
+- record_id: R00094
+  term: Household economic well-being
+  grade: significant
+- record_id: R00095
+  term: Overuse of pesticides
+  grade: very significant
+- record_id: R00096
+  term: Overuse of pesticides
+  grade: no effect
+- record_id: R00098
+  term: Safe disposal of waste
+  grade: significant
+- record_id: R00100
+  term: Dietary diversity
+  grade: very significant
+- record_id: R00100
+  term: Index of access to sanitation
+  grade: very significant
+- record_id: R00101
+  term: Individual knowledge
+  grade: significant
+- record_id: R00101
+  term: Attitudes and beliefs - energy & extractives
+  grade: significant
+- record_id: R00102
+  term: Index of access to energy
+  grade: significant
+- record_id: R00107
+  term: Wealth and assets
+  grade: significant
+- record_id: R00107
+  term: Total savings
+  grade: significant
+- record_id: R00107
+  term: Amount borrowed
+  grade: significant
+- record_id: R00108
+  term: Household energy source
+  grade: significant
+- record_id: R00110
+  term: Income from fish production
+  grade: very significant
+- record_id: R00110
+  term: Employment status
+  grade: significant
+- record_id: R00110
+  term: Poverty status
+  grade: significant
+- record_id: R00110
+  term: Income inequality
+  grade: significant
+- record_id: R00111
+  term: Latrine or toilet access
+  grade: very significant
+- record_id: R00118
+  term: Greenhouse gas emissions from agriculture/composting
+  grade: neutral/mixed results
+- record_id: R00119
+  term: Greenhouse gas emissions from agriculture/composting
+  grade: significant
+- record_id: R00120
+  term: Machinery energy use for economic activities
+  grade: significant
+- record_id: R00120
+  term: Investment in productive assets
+  grade: no information
+- record_id: R00121
+  term: Greenhouse gas emissions from agriculture/composting
+  grade: significant
+- record_id: R00122
+  term: Greenhouse gas emissions from agriculture/composting
+  grade: significant
+- record_id: R00124
+  term: Greenhouse gas emissions from agriculture/composting
+  grade: significant
+- record_id: R00125
+  term: Greenhouse gas emissions from agriculture/composting
+  grade: significant
+- record_id: R00126
+  term: Handwashing behaviour
+  grade: very significant
+- record_id: R00127
+  term: Risk of disease
+  grade: significant
+- record_id: R00127
+  term: Diarrhoeal disease
+  grade: significant
+- record_id: R00129
+  term: Index of energy and efficiency
+  grade: significant
+- record_id: R00129
+  term: Index environmental protection
+  grade: significant
+- record_id: R00139
+  term: Biological diversity
+  grade: very significant
+- record_id: R00140
+  term: Index of water supply and irrigation for agriculture
+  grade: significant
+- record_id: R00141
+  term: Biological diversity
+  grade: very significant
+- record_id: R00141
+  term: Other crop quality
+  grade: very significant
+- record_id: R00142
+  term: Biological diversity
+  grade: neutral/mixed results
+- record_id: R00146
+  term: Adoption of recommended seed selection
+  grade: significant
+- record_id: R00147
+  term: Water pollution
+  grade: significant
+- record_id: R00148
+  term: Water pollution
+  grade: significant
+- record_id: R00149
+  term: Water pollution
+  grade: significant
+- record_id: R00150
+  term: Water pollution
+  grade: neutral/mixed results
+- record_id: R00051
+  term: Maize yield
+  grade: significant
+- record_id: R00052
+  term: Forest coverage
+  grade: no information
+- record_id: R00052
+  term: Deforestation
+  grade: no information
+- record_id: R00053
+  term: Household energy consumption
+  grade: no information
+- record_id: R00053
+  term: Greenhouse gas emissions
+  grade: no information
+- record_id: R00054
+  term: Greenhouse gas emissions
+  grade: no information
+- record_id: R00054
+  term: Household energy consumption
+  grade: no information
+- record_id: R00054
+  term: Index of energy and efficiency
+  grade: no information
+- record_id: R00056
+  term: Forest coverage
+  grade: no information
+- record_id: R00056
+  term: Air pollution
+  grade: no information
+- record_id: R00057
+  term: Aggregate crop yield
+  grade: significant
+- record_id: R00058
+  term: Deforestation
+  grade: very significant
+- record_id: R00058
+  term: Greenhouse gas emissions
+  grade: neutral/mixed results
+- record_id: R00059
+  term: Deforestation
+  grade: no effect
+- record_id: R00059
+  term: Greenhouse gas emissions
+  grade: no effect
+- record_id: R00061
+  term: Maize yield
+  grade: no information
+- record_id: R00062
+  term: Index of energy and efficiency
+  grade: very significant
+- record_id: R00062
+  term: Product quality
+  grade: no information
+- record_id: R00062
+  term: Air pollution
+  grade: significant
+- record_id: R00063
+  term: Greenhouse gas emissions
+  grade: no information
+- record_id: R00066
+  term: Index of mortality
+  grade: significant
+- record_id: R00068
+  term: Water pollution due to agricultural activities
+  grade: significant
+- record_id: R00072
+  term: Resilience
+  grade: neutral/mixed results
+- record_id: R00073
+  term: Overall household income
+  grade: no information
+- record_id: R00073
+  term: Weather and natural disasters
+  grade: no effect
+- record_id: R00073
+  term: Weather-related crop losses
+  grade: no information
+- record_id: R00074
+  term: Chemical exposure from agricultural chemicals
+  grade: no information
+- record_id: R00075
+  term: Water supply volume
+  grade: neutral/mixed results
+- record_id: R00075
+  term: Water use in agriculture
+  grade: neutral/mixed results
+- record_id: R00075
+  term: Water supply
+  grade: neutral/mixed results
+- record_id: R00075
+  term: Fresh water usage
+  grade: neutral/mixed results
+- record_id: R00077
+  term: Uptake of safe waste disposal practices
+  grade: no information
+- record_id: R00078
+  term: New latrine or toilet construction
+  grade: significant
+- record_id: R00080
+  term: Food safety - Measures of toxins in food
+  grade: no information
+- record_id: R00081
+  term: Food safety - Measures of toxins in food
+  grade: significant
+- record_id: R00083
+  term: Index of renewable energy promotion
+  grade: no information
+- record_id: R00085
+  term: Typical water consumption
+  grade: significant
+- record_id: R00085
+  term: Willingness to pay for water
+  grade: no effect
+- record_id: R00087
+  term: Wind energy generation
+  grade: no information
+- record_id: R00088
+  term: Import activity
+  grade: no information
+- record_id: R00088
+  term: Overall crop production
+  grade: no information
+- record_id: R00088
+  term: Export activity
+  grade: no information
+- record_id: R00088
+  term: Overuse of inorganic fertiliser
+  grade: no information
+- record_id: R00089
+  term: Overuse of inorganic fertiliser
+  grade: no information
+- record_id: R00091
+  term: Animal/livestock illness/disease
+  grade: no information
+- record_id: R00091
+  term: Livestock amount
+  grade: outcome was worsened
+- record_id: R00091
+  term: Animal/livestock growth and nutrition
+  grade: outcome was worsened
+- record_id: R00091
+  term: Beef/cattle production
+  grade: outcome was worsened
+- record_id: R00092
+  term: Household economic well-being
+  grade: no information
+- record_id: R00093
+  term: Overuse of pesticides
+  grade: very significant
+- record_id: R00094
+  term: Overuse of pesticides
+  grade: no information
+- record_id: R00096
+  term: Safe disposal of waste
+  grade: significant
+- record_id: R00098
+  term: Dietary diversity
+  grade: significant
+- record_id: R00098
+  term: Index of access to sanitation
+  grade: no information
+- record_id: R00099
+  term: Business knowledge
+  grade: no information
+- record_id: R00099
+  term: Individual knowledge
+  grade: no information
+- record_id: R00099
+  term: Attitudes and beliefs - energy & extractives
+  grade: no information
+- record_id: R00100
+  term: Index of access to energy
+  grade: no information
+- record_id: R00103
+  term: Index of water supply quality
+  grade: neutral/mixed results
+- record_id: R00105
+  term: Wealth and assets
+  grade: no information
+- record_id: R00105
+  term: Total savings
+  grade: no information
+- record_id: R00105
+  term: Amount borrowed
+  grade: no information
+- record_id: R00106
+  term: Household energy source
+  grade: no information
+- record_id: R00108
+  term: Income from fish production
+  grade: very significant
+- record_id: R00108
+  term: Overall household income
+  grade: no information
+- record_id: R00108
+  term: Employment status
+  grade: significant
+- record_id: R00108
+  term: Poverty status
+  grade: significant
+- record_id: R00108
+  term: Income inequality
+  grade: significant
+- record_id: R00109
+  term: Latrine or toilet access
+  grade: no information
+- record_id: R00111
+  term: Index of economic indicators
+  grade: outcome was worsened
+- record_id: R00116
+  term: Greenhouse gas emissions from agriculture/composting
+  grade: significant
+- record_id: R00117
+  term: Greenhouse gas emissions from agriculture/composting
+  grade: significant
+- record_id: R00118
+  term: Traditional fuel consumption
+  grade: neutral/mixed results
+- record_id: R00120
+  term: Greenhouse gas emissions from agriculture/composting
+  grade: no information
+- record_id: R00123
+  term: Greenhouse gas emissions from agriculture/composting
+  grade: no information
+- record_id: R00124
+  term: Handwashing behaviour
+  grade: no information
+- record_id: R00124
+  term: Bacterial infection
+  grade: no information
+- record_id: R00124
+  term: Bacterial water contamination
+  grade: no information
+- record_id: R00125
+  term: Risk of disease
+  grade: significant
+- record_id: R00125
+  term: Diarrhoeal disease
+  grade: significant
+- record_id: R00126
+  term: Food consumption
+  grade: no information
+- record_id: R00127
+  term: Index of energy and efficiency
+  grade: no information
+- record_id: R00127
+  term: Index environmental protection
+  grade: no information
+- record_id: R00129
+  term: Overall environmental performance
+  grade: neutral/mixed results
+- record_id: R00131
+  term: Sector growth
+  grade: significant
+- record_id: R00137
+  term: Biological diversity
+  grade: no information
+- record_id: R00138
+  term: Index of water supply and irrigation for agriculture
+  grade: no information
+- record_id: R00140
+  term: Biological diversity
+  grade: no information
+- record_id: R00140
+  term: Mollusc production
+  grade: no information
+- record_id: R00143
+  term: Biological diversity
+  grade: neutral/mixed results
+- record_id: R00144
+  term: Adoption of recommended seed selection
+  grade: significant
+- record_id: R00145
+  term: Water pollution
+  grade: neutral/mixed results
+- record_id: R00146
+  term: Water pollution
+  grade: no information
+- record_id: R00149
+  term: Forest coverage
+  grade: neutral/mixed results
+- record_id: R00150
+  term: Weight
+  grade: no effect
+- record_id: R00150
+  term: Dietary diversity
+  grade: significant
+- record_id: R00150
+  term: Index of access to sanitation
+  grade: significant
+- record_id: R00151
+  term: Forest coverage
+  grade: significant
+- record_id: R00152
+  term: Forest coverage
+  grade: significant
+- record_id: R00153
+  term: Greenhouse gas emissions from agriculture/composting
+  grade: significant
+- record_id: R00154
+  term: Total factor productivity
+  grade: significant
+- record_id: R00154
+  term: Greenhouse gas emissions
+  grade: neutral/mixed results
+- record_id: R00156
+  term: Deforestation
+  grade: neutral/mixed results
+- record_id: R00157
+  term: Index of soil quality
+  grade: outcome was worsened
+- record_id: R00158
+  term: Forest coverage
+  grade: significant
+- record_id: R00159
+  term: Household economic well-being
+  grade: significant
+- record_id: R00160
+  term: Maize yield
+  grade: significant
+- record_id: R00160
+  term: Index of household poverty
+  grade: significant
+- record_id: R00161
+  term: Deforestation
+  grade: very significant
+- record_id: R00161
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00162
+  term: Deforestation
+  grade: no effect
+- record_id: R00163
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00164
+  term: Deforestation
+  grade: neutral/mixed results
+- record_id: R00164
+  term: Greenhouse gas emissions
+  grade: neutral/mixed results
+- record_id: R00165
+  term: Greenhouse gas emissions from agriculture/composting
+  grade: significant
+- record_id: R00166
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00167
+  term: Biological diversity
+  grade: very significant
+- record_id: R00168
+  term: Deforestation
+  grade: very significant
+- record_id: R00170
+  term: Forest coverage
+  grade: significant
+- record_id: R00170
+  term: Deforestation
+  grade: significant
+- record_id: R00171
+  term: Deforestation
+  grade: significant
+- record_id: R00172
+  term: Income from crop production
+  grade: significant
+- record_id: R00173
+  term: Animal/livestock illness/disease
+  grade: no information
+- record_id: R00173
+  term: Livestock amount
+  grade: outcome was worsened
+- record_id: R00173
+  term: Animal/livestock growth and nutrition
+  grade: outcome was worsened
+- record_id: R00173
+  term: Beef/cattle production
+  grade: outcome was worsened
+- record_id: R00174
+  term: Deforestation
+  grade: very significant
+- record_id: R00175
+  term: Forest coverage
+  grade: neutral/mixed results
+- record_id: R00176
+  term: Forest coverage
+  grade: outcome was worsened
+- record_id: R00177
+  term: Forest coverage
+  grade: neutral/mixed results
+- record_id: R00178
+  term: Aggregate crop yield
+  grade: significant
+- record_id: R00178
+  term: Income from agriculture
+  grade: significant
+- record_id: R00179
+  term: Forest coverage
+  grade: significant
+- record_id: R00180
+  term: Forest coverage
+  grade: very significant
+- record_id: R00183
+  term: Aggregate crop yield
+  grade: significant
+- record_id: R00184
+  term: Aggregate crop yield
+  grade: significant
+- record_id: R00185
+  term: Food security index
+  grade: significant
+- record_id: R00185
+  term: Income from livestock
+  grade: significant
+- record_id: R00185
+  term: Household livelihood
+  grade: significant
+- record_id: R00186
+  term: Dietary diversity
+  grade: very significant
+- record_id: R00186
+  term: Income from non-farm employment
+  grade: significant
+- record_id: R00186
+  term: Crop diversification
+  grade: very significant
+- record_id: R00186
+  term: Household livelihood
+  grade: very significant
+- record_id: R00186
+  term: Investment in productive assets
+  grade: significant
+- record_id: R00187
+  term: Dietary diversity
+  grade: significant
+- record_id: R00187
+  term: Crop diversification
+  grade: significant
+- record_id: R00187
+  term: Wealth and assets
+  grade: significant
+- record_id: R00187
+  term: Overall agricultural expenditure
+  grade: significant
+- record_id: R00187
+  term: Income from on-farm employment
+  grade: very significant
+- record_id: R00187
+  term: Income from non-farm employment
+  grade: significant
+- record_id: R00188
+  term: Biological diversity
+  grade: neutral/mixed results
+- record_id: R00189
+  term: Forest coverage
+  grade: neutral/mixed results
+- record_id: R00190
+  term: Forest coverage
+  grade: outcome was worsened
+- record_id: R00190
+  term: Index of access to credit
+  grade: no information
+- record_id: R00192
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00193
+  term: New latrine or toilet construction
+  grade: very significant
+- record_id: R00194
+  term: Forest coverage
+  grade: significant
+- record_id: R00196
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00197
+  term: Greenhouse gas emissions
+  grade: outcome was worsened
+- record_id: R00198
+  term: Safe disposal of waste
+  grade: significant
+- record_id: R00199
+  term: Air pollution
+  grade: very significant
+- record_id: R00200
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00201
+  term: Aggregate crop yield
+  grade: significant
+- record_id: R00202
+  term: Maize yield
+  grade: significant
+- record_id: R00202
+  term: Food insecurity prevalence
+  grade: very significant
+- record_id: R00202
+  term: Dietary diversity
+  grade: very significant
+- record_id: R00202
+  term: Labour demand
+  grade: significant
+- record_id: R00203
+  term: Index environmental protection
+  grade: significant
+- record_id: R00204
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00205
+  term: Forest coverage
+  grade: significant
+- record_id: R00206
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00207
+  term: Greenhouse gas emissions
+  grade: neutral/mixed results
+- record_id: R00208
+  term: Greenhouse gas emissions
+  grade: no information
+- record_id: R00210
+  term: Greenhouse gas emissions
+  grade: neutral/mixed results
+- record_id: R00211
+  term: Greenhouse gas emissions
+  grade: neutral/mixed results
+- record_id: R00212
+  term: Total factor productivity
+  grade: significant
+- record_id: R00212
+  term: Investment in R&D
+  grade: no information
+- record_id: R00213
+  term: Air pollution
+  grade: neutral/mixed results
+- record_id: R00214
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00214
+  term: Gross Domestic Product
+  grade: very significant
+- record_id: R00217
+  term: Greenhouse gas emissions
+  grade: outcome was worsened
+- record_id: R00218
+  term: Wind energy generation
+  grade: neutral/mixed results
+- record_id: R00219
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00220
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00221
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00222
+  term: Energy conservation strategies
+  grade: very significant
+- record_id: R00222
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00223
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00224
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00225
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00228
+  term: Air pollution
+  grade: very significant
+- record_id: R00229
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00230
+  term: Index of agricultural knowledge
+  grade: no effect
+- record_id: R00232
+  term: Greenhouse gas emissions
+  grade: neutral/mixed results
+- record_id: R00233
+  term: Crop diversification
+  grade: neutral/mixed results
+- record_id: R00233
+  term: Egg production
+  grade: significant
+- record_id: R00233
+  term: Index of dairy production
+  grade: significant
+- record_id: R00233
+  term: Fish production
+  grade: neutral/mixed results
+- record_id: R00233
+  term: Dietary diversity
+  grade: significant
+- record_id: R00233
+  term: Food consumption
+  grade: significant
+- record_id: R00233
+  term: Overall crop production
+  grade: no effect
+- record_id: R00234
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00235
+  term: Index of energy and efficiency
+  grade: significant
+- record_id: R00236
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00237
+  term: Air pollution
+  grade: neutral/mixed results
+- record_id: R00238
+  term: Index of water supply quality
+  grade: significant
+- record_id: R00239
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00240
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00241
+  term: Forest coverage
+  grade: outcome was worsened
+- record_id: R00241
+  term: Vegetation levels
+  grade: outcome was worsened
+- record_id: R00242
+  term: Transport infrastructure repair
+  grade: neutral/mixed results
+- record_id: R00242
+  term: Total government revenue
+  grade: significant
+- record_id: R00242
+  term: Poverty status
+  grade: no effect
+- record_id: R00242
+  term: Income inequality
+  grade: no effect
+- record_id: R00243
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00244
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00245
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00246
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00248
+  term: Air pollution
+  grade: very significant
+- record_id: R00249
+  term: Adoption of recommended animal parasite/disease control practices
+  grade: significant
+- record_id: R00249
+  term: Maize yield
+  grade: significant
+- record_id: R00249
+  term: Dietary diversity
+  grade: no effect
+- record_id: R00250
+  term: Maize yield
+  grade: significant
+- record_id: R00250
+  term: Profits and revenues
+  grade: significant
+- record_id: R00251
+  term: Access to water
+  grade: outcome was worsened
+- record_id: R00251
+  term: Food security index
+  grade: significant
+- record_id: R00252
+  term: Unemployment
+  grade: significant
+- record_id: R00252
+  term: Air pollution
+  grade: significant
+- record_id: R00253
+  term: Latrine or toilet access
+  grade: very significant
+- record_id: R00254
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00254
+  term: Air pollution
+  grade: significant
+- record_id: R00255
+  term: Greenhouse gas emissions
+  grade: outcome was worsened
+- record_id: R00256
+  term: Air pollution
+  grade: significant
+- record_id: R00257
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00258
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00259
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00260
+  term: Water pollution
+  grade: significant
+- record_id: R00261
+  term: Storage-related crop losses
+  grade: very significant
+- record_id: R00261
+  term: Food production
+  grade: no information
+- record_id: R00262
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00263
+  term: Maize yield
+  grade: no information
+- record_id: R00264
+  term: Overall environmental performance
+  grade: very significant
+- record_id: R00265
+  term: Water pollution
+  grade: significant
+- record_id: R00266
+  term: Air pollution
+  grade: very significant
+- record_id: R00266
+  term: Index of mortality
+  grade: very significant
+- record_id: R00267
+  term: Area allocated to crops
+  grade: significant
+- record_id: R00268
+  term: Area allocated to crops
+  grade: significant
+- record_id: R00268
+  term: Overall crop production
+  grade: very significant
+- record_id: R00268
+  term: Soya yield
+  grade: very significant
+- record_id: R00268
+  term: Soya volume sold
+  grade: very significant
+- record_id: R00269
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00270
+  term: Investment in R&D
+  grade: significant
+- record_id: R00271
+  term: Deforestation
+  grade: significant
+- record_id: R00272
+  term: Aggregate crop yield
+  grade: significant
+- record_id: R00272
+  term: Area allocated to crops
+  grade: significant
+- record_id: R00273
+  term: Greenhouse gas emissions
+  grade: outcome was worsened
+- record_id: R00274
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00274
+  term: Air pollution
+  grade: very significant
+- record_id: R00275
+  term: Forest coverage
+  grade: significant
+- record_id: R00275
+  term: Vegetation levels
+  grade: significant
+- record_id: R00275
+  term: Bushland preservation
+  grade: significant
+- record_id: R00275
+  term: Index environmental protection
+  grade: significant
+- record_id: R00275
+  term: Household economic well-being
+  grade: neutral/mixed results
+- record_id: R00275
+  term: Household livelihood
+  grade: neutral/mixed results
+- record_id: R00275
+  term: Employment status
+  grade: neutral/mixed results
+- record_id: R00276
+  term: Index environmental protection
+  grade: outcome was worsened
+- record_id: R00279
+  term: Water pollution
+  grade: significant
+- record_id: R00279
+  term: Air pollution
+  grade: significant
+- record_id: R00280
+  term: Income from crop production
+  grade: significant
+- record_id: R00280
+  term: Profits and revenues
+  grade: significant
+- record_id: R00281
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00282
+  term: Weight
+  grade: no effect
+- record_id: R00282
+  term: Dietary diversity
+  grade: significant
+- record_id: R00282
+  term: Food production
+  grade: significant
+- record_id: R00282
+  term: Income from crop production
+  grade: neutral/mixed results
+- record_id: R00283
+  term: Overuse of inorganic fertiliser
+  grade: very significant
+- record_id: R00284
+  term: Air pollution
+  grade: neutral/mixed results
+- record_id: R00285
+  term: Air pollution
+  grade: very significant
+- record_id: R00286
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00288
+  term: Household energy consumption
+  grade: neutral/mixed results
+- record_id: R00289
+  term: Air pollution
+  grade: very significant
+- record_id: R00290
+  term: Traditional fuel consumption
+  grade: neutral/mixed results
+- record_id: R00291
+  term: Household energy consumption
+  grade: significant
+- record_id: R00292
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00293
+  term: Household energy consumption
+  grade: no effect
+- record_id: R00294
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00295
+  term: Air pollution
+  grade: significant
+- record_id: R00297
+  term: Air pollution
+  grade: significant
+- record_id: R00298
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00299
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00300
+  term: Total factor productivity
+  grade: neutral/mixed results
+- record_id: R00300
+  term: Household energy consumption
+  grade: no effect
+- record_id: R00301
+  term: Household energy source
+  grade: significant
+- record_id: R00302
+  term: Air pollution
+  grade: very significant
+- record_id: R00303
+  term: Quality of life/Life satisfaction
+  grade: no information
+- record_id: R00304
+  term: Wheat yield
+  grade: significant
+- record_id: R00304
+  term: Maize yield
+  grade: no effect
+- record_id: R00305
+  term: Household energy consumption
+  grade: significant
+- record_id: R00307
+  term: Household energy consumption
+  grade: neutral/mixed results
+- record_id: R00307
+  term: Cost/price of energy
+  grade: neutral/mixed results
+- record_id: R00309
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00310
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00314
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00315
+  term: Air pollution
+  grade: very significant
+- record_id: R00318
+  term: Sector growth
+  grade: significant
+- record_id: R00319
+  term: Business knowledge
+  grade: significant
+- record_id: R00319
+  term: Individual knowledge
+  grade: significant
+- record_id: R00319
+  term: Attitudes and beliefs - energy & extractives
+  grade: significant
+- record_id: R00320
+  term: Household energy consumption
+  grade: significant
+- record_id: R00320
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00321
+  term: Greenhouse gas emissions
+  grade: outcome was worsened
+- record_id: R00322
+  term: Adoption of recommended pest management practices
+  grade: significant
+- record_id: R00322
+  term: Maize yield
+  grade: very significant
+- record_id: R00323
+  term: Overuse of pesticides
+  grade: neutral/mixed results
+- record_id: R00325
+  term: Aggregate crop yield
+  grade: significant
+- record_id: R00325
+  term: Income from agriculture
+  grade: significant
+- record_id: R00325
+  term: Food security index
+  grade: significant
+- record_id: R00325
+  term: Index of environmental protection
+  grade: no effect
+- record_id: R00326
+  term: Income from agriculture
+  grade: significant
+- record_id: R00329
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00330
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00330
+  term: Total factor productivity
+  grade: significant
+- record_id: R00331
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00333
+  term: Greenhouse gas emissions from agriculture/composting
+  grade: significant
+- record_id: R00334
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00334
+  term: Gross Domestic Product
+  grade: no effect
+- record_id: R00335
+  term: Household energy consumption
+  grade: very significant
+- record_id: R00335
+  term: Traditional fuel consumption
+  grade: neutral/mixed results
+- record_id: R00336
+  term: Overuse of inorganic fertiliser
+  grade: significant
+- record_id: R00336
+  term: Overuse of pesticides
+  grade: significant
+- record_id: R00338
+  term: Aggregate crop yield
+  grade: significant
+- record_id: R00339
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00340
+  term: Deforestation
+  grade: neutral/mixed results
+- record_id: R00341
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00342
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00342
+  term: Total factor productivity
+  grade: significant
+- record_id: R00343
+  term: Air pollution
+  grade: no effect
+- record_id: R00344
+  term: Air pollution
+  grade: significant
+- record_id: R00345
+  term: Air pollution
+  grade: significant
+- record_id: R00347
+  term: Dietary diversity
+  grade: no information
+- record_id: R00347
+  term: Anaemia
+  grade: no information
+- record_id: R00347
+  term: Aggregate crop yield
+  grade: no information
+- record_id: R00347
+  term: Overall household income
+  grade: no information
+- record_id: R00350
+  term: Deforestation
+  grade: neutral/mixed results
+- record_id: R00351
+  term: Index of energy and efficiency
+  grade: significant
+- record_id: R00351
+  term: Index environmental protection
+  grade: no information
+- record_id: R00352
+  term: Index of access to energy
+  grade: very significant
+- record_id: R00352
+  term: Cost/price of energy
+  grade: no effect
+- record_id: R00352
+  term: Reliability of electricity
+  grade: significant
+- record_id: R00352
+  term: Lighting and heating energy use for economic activities
+  grade: significant
+- record_id: R00352
+  term: Energy used for cooking
+  grade: no effect
+- record_id: R00353
+  term: Air pollution
+  grade: significant
+- record_id: R00354
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00355
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00356
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00357
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00358
+  term: Greenhouse gas emissions from agriculture/composting
+  grade: significant
+- record_id: R00360
+  term: Deforestation
+  grade: significant
+- record_id: R00360
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00361
+  term: Area allocated to crops
+  grade: neutral/mixed results
+- record_id: R00361
+  term: Adoption of recommended weed management practices
+  grade: significant
+- record_id: R00361
+  term: Adoption of recommended inorganic fertiliser practices
+  grade: significant
+- record_id: R00361
+  term: Fruit yield
+  grade: significant
+- record_id: R00361
+  term: Income from crop production
+  grade: neutral/mixed results
+- record_id: R00361
+  term: Overall household income
+  grade: no effect
+- record_id: R00361
+  term: Overall household expenditure
+  grade: no effect
+- record_id: R00362
+  term: Loans outstanding
+  grade: outcome was worsened
+- record_id: R00362
+  term: Overall household income
+  grade: significant
+- record_id: R00367
+  term: Overall household income
+  grade: significant
+- record_id: R00367
+  term: Income from forestry
+  grade: significant
+- record_id: R00367
+  term: Income from non-farm employment
+  grade: significant
+- record_id: R00368
+  term: Income from crop production
+  grade: significant
+- record_id: R00369
+  term: Maize yield
+  grade: significant
+- record_id: R00370
+  term: Maize yield
+  grade: very significant
+- record_id: R00370
+  term: Cotton yield
+  grade: very significant
+- record_id: R00371
+  term: Maize yield
+  grade: no information
+- record_id: R00371
+  term: Income from crop production
+  grade: significant
+- record_id: R00372
+  term: Maize yield
+  grade: significant
+- record_id: R00373
+  term: Aggregate crop yield
+  grade: significant
+- record_id: R00373
+  term: Income from crop production
+  grade: significant
+- record_id: R00373
+  term: Index of agricultural input prices
+  grade: outcome was worsened
+- record_id: R00374
+  term: Wheat yield
+  grade: significant
+- record_id: R00374
+  term: Index of water supply and irrigation for agriculture
+  grade: very significant
+- record_id: R00374
+  term: Income from crop production
+  grade: significant
+- record_id: R00375
+  term: Greenhouse gas emissions from agriculture/composting
+  grade: significant
+- record_id: R00376
+  term: Income from agriculture
+  grade: very significant
+- record_id: R00376
+  term: Maize yield
+  grade: significant
+- record_id: R00376
+  term: Sharing agricultural knowledge with peers
+  grade: significant
+- record_id: R00377
+  term: Index of water supply and irrigation for agriculture
+  grade: outcome was worsened
+- record_id: R00377
+  term: Rice yield
+  grade: no effect
+- record_id: R00377
+  term: Crop production/management time use
+  grade: no effect
+- record_id: R00377
+  term: Income from crop production
+  grade: no effect
+- record_id: R00377
+  term: Overall household income
+  grade: no effect
+- record_id: R00378
+  term: Deforestation
+  grade: very significant
+- record_id: R00379
+  term: Index of environmental protection
+  grade: very significant
+- record_id: R00380
+  term: Greenhouse gas emissions from agriculture/composting
+  grade: neutral/mixed results
+- record_id: R00381
+  term: Deforestation
+  grade: outcome was worsened
+- record_id: R00382
+  term: Deforestation
+  grade: significant
+- record_id: R00382
+  term: Forest coverage
+  grade: significant
+- record_id: R00382
+  term: Household livelihood
+  grade: significant
+- record_id: R00383
+  term: Deforestation
+  grade: significant
+- record_id: R00383
+  term: Household livelihood
+  grade: significant
+- record_id: R00384
+  term: Deforestation
+  grade: significant
+- record_id: R00385
+  term: Aggregate crop yield
+  grade: significant
+- record_id: R00385
+  term: Index of school enrolment and attendance
+  grade: very significant
+- record_id: R00386
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00387
+  term: Greenhouse gas emissions from agriculture/composting
+  grade: significant
+- record_id: R00388
+  term: Poverty status
+  grade: neutral/mixed results
+- record_id: R00388
+  term: Income from forestry
+  grade: no effect
+- record_id: R00388
+  term: Income from crop production
+  grade: no information
+- record_id: R00388
+  term: Income from livestock
+  grade: neutral/mixed results
+- record_id: R00389
+  term: Forest coverage
+  grade: significant
+- record_id: R00389
+  term: Income from forestry
+  grade: neutral/mixed results
+- record_id: R00389
+  term: Other crop yield
+  grade: significant
+- record_id: R00390
+  term: Forest coverage
+  grade: very significant
+- record_id: R00390
+  term: Greenhouse gas emissions from agriculture/composting
+  grade: very significant
+- record_id: R00391
+  term: Overall household income
+  grade: significant
+- record_id: R00392
+  term: Forest coverage
+  grade: neutral/mixed results
+- record_id: R00394
+  term: Habitat loss from agriculture
+  grade: very significant
+- record_id: R00394
+  term: Forest coverage
+  grade: very significant
+- record_id: R00395
+  term: Forest coverage
+  grade: significant
+- record_id: R00396
+  term: Forest coverage
+  grade: no effect
+- record_id: R00397
+  term: Forest coverage
+  grade: significant
+- record_id: R00398
+  term: Water pollution
+  grade: very significant
+- record_id: R00399
+  term: Deforestation
+  grade: no effect
+- record_id: R00399
+  term: Biological diversity
+  grade: neutral/mixed results
+- record_id: R00400
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00402
+  term: Adoption of recommended intercropping practices
+  grade: no information
+- record_id: R00402
+  term: Adoption of recommended water/irrigation practices
+  grade: significant
+- record_id: R00402
+  term: Adoption of recommended pest management practices
+  grade: no information
+- record_id: R00402
+  term: Adoption of recommended organic fertiliser practices
+  grade: significant
+- record_id: R00403
+  term: Vegetation levels
+  grade: very significant
+- record_id: R00404
+  term: Food security index
+  grade: significant
+- record_id: R00404
+  term: Dietary diversity
+  grade: significant
+- record_id: R00404
+  term: Income from crop production
+  grade: very significant
+- record_id: R00405
+  term: Swine herd size
+  grade: very significant
+- record_id: R00406
+  term: Air pollution
+  grade: outcome was worsened
+- record_id: R00407
+  term: New latrine or toilet construction
+  grade: significant
+- record_id: R00408
+  term: Air pollution
+  grade: neutral/mixed results
+- record_id: R00412
+  term: Air pollution
+  grade: neutral/mixed results
+- record_id: R00414
+  term: Parents and family - health
+  grade: significant
+- record_id: R00414
+  term: Index of employment
+  grade: significant
+- record_id: R00415
+  term: Energy used for cooking
+  grade: very significant
+- record_id: R00415
+  term: Customer satisfaction
+  grade: significant
+- record_id: R00415
+  term: Indoor air pollution
+  grade: significant
+- record_id: R00415
+  term: Reliability of electricity
+  grade: no effect
+- record_id: R00416
+  term: Gross Domestic Product
+  grade: significant
+- record_id: R00416
+  term: Technical losses - energy
+  grade: significant
+- record_id: R00416
+  term: Index of energy and efficiency
+  grade: significant
+- record_id: R00417
+  term: Household expenditure on energy
+  grade: significant
+- record_id: R00417
+  term: Household energy consumption
+  grade: significant
+- record_id: R00417
+  term: Cost/price of energy
+  grade: significant
+- record_id: R00418
+  term: Household energy consumption
+  grade: neutral/mixed results
+- record_id: R00420
+  term: Air pollution
+  grade: very significant
+- record_id: R00421
+  term: Indoor air pollution
+  grade: no effect
+- record_id: R00422
+  term: Household energy consumption
+  grade: very significant
+- record_id: R00423
+  term: Environmental management index
+  grade: neutral/mixed results
+- record_id: R00423
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00424
+  term: Air pollution
+  grade: significant
+- record_id: R00425
+  term: Traditional fuel consumption
+  grade: very significant
+- record_id: R00426
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00427
+  term: Index of household energy consumption
+  grade: neutral/mixed results
+- record_id: R00428
+  term: Greenhouse gas emissions
+  grade: outcome was worsened
+- record_id: R00430
+  term: Light/lumen hours per day
+  grade: significant
+- record_id: R00430
+  term: Index of renewable energy promotion
+  grade: significant
+- record_id: R00430
+  term: Lighting and heating energy use for economic activities
+  grade: very significant
+- record_id: R00430
+  term: Study at night
+  grade: significant
+- record_id: R00430
+  term: Overall student attendance
+  grade: neutral/mixed results
+- record_id: R00430
+  term: Energy used for cooking
+  grade: no effect
+- record_id: R00431
+  term: Greenhouse gas emissions
+  grade: neutral/mixed results
+- record_id: R00432
+  term: Household energy consumption
+  grade: significant
+- record_id: R00433
+  term: Maize yield
+  grade: significant
+- record_id: R00433
+  term: Food insecurity prevalence
+  grade: no information
+- record_id: R00434
+  term: Diarrhoeal disease
+  grade: no information
+- record_id: R00434
+  term: Acute respiratory infections (ARIs)
+  grade: no information
+- record_id: R00434
+  term: Water pollution
+  grade: no information
+- record_id: R00434
+  term: Motor skill development
+  grade: no information
+- record_id: R00434
+  term: Communicative development
+  grade: no information
+- record_id: R00434
+  term: Index of early childhood development
+  grade: no information
+- record_id: R00435
+  term: Quality of life/Life satisfaction
+  grade: significant
+- record_id: R00435
+  term: Light/lumen hours per day
+  grade: no information
+- record_id: R00435
+  term: Household energy expenditures for economic activities
+  grade: significant
+- record_id: R00437
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00438
+  term: Greenhouse gas emissions
+  grade: outcome was worsened
+- record_id: R00439
+  term: Household energy consumption
+  grade: significant
+- record_id: R00441
+  term: Neonatal mortality
+  grade: no information
+- record_id: R00441
+  term: Air pollution
+  grade: no information
+- record_id: R00442
+  term: Labour productivity
+  grade: significant
+- record_id: R00442
+  term: Aggregate crop yield
+  grade: significant
+- record_id: R00443
+  term: Index of access to energy
+  grade: significant
+- record_id: R00443
+  term: Index of energy and efficiency
+  grade: significant
+- record_id: R00444
+  term: Air pollution
+  grade: significant
+- record_id: R00446
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00447
+  term: Overall crop production
+  grade: neutral/mixed results
+- record_id: R00447
+  term: Food security index
+  grade: neutral/mixed results
+- record_id: R00447
+  term: Index of farmers' adoption of recommended practices
+  grade: neutral/mixed results
+- record_id: R00448
+  term: Water pollution
+  grade: neutral/mixed results
+- record_id: R00449
+  term: Greenhouse gas emissions
+  grade: neutral/mixed results
+- record_id: R00450
+  term: Product quality
+  grade: significant
+- record_id: R00451
+  term: Air pollution
+  grade: significant
+- record_id: R00452
+  term: Total factor productivity
+  grade: significant
+- record_id: R00452
+  term: Investment in R&D
+  grade: no information
+- record_id: R00453
+  term: Air pollution
+  grade: significant
+- record_id: R00455
+  term: Index of energy and efficiency
+  grade: significant
+- record_id: R00455
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00456
+  term: Index environmental protection
+  grade: significant
+- record_id: R00457
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00458
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00458
+  term: Index of energy and efficiency
+  grade: significant
+- record_id: R00459
+  term: Water pollution
+  grade: significant
+- record_id: R00460
+  term: Air pollution
+  grade: neutral/mixed results
+- record_id: R00461
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00462
+  term: Air pollution
+  grade: outcome was worsened
+- record_id: R00463
+  term: Solar energy generation
+  grade: very significant
+- record_id: R00464
+  term: Overall environmental performance
+  grade: significant
+- record_id: R00466
+  term: Air pollution
+  grade: significant
+- record_id: R00467
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00469
+  term: Greenhouse gas emissions
+  grade: neutral/mixed results
+- record_id: R00471
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00472
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00473
+  term: Greenhouse gas emissions from agriculture/composting
+  grade: significant
+- record_id: R00474
+  term: Air pollution
+  grade: very significant
+- record_id: R00476
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00477
+  term: Air pollution
+  grade: significant
+- record_id: R00478
+  term: Indoor air pollution
+  grade: very significant
+- record_id: R00479
+  term: Air pollution
+  grade: neutral/mixed results
+- record_id: R00480
+  term: Air pollution
+  grade: significant
+- record_id: R00481
+  term: Debt
+  grade: significant
+- record_id: R00481
+  term: Financial-based outcomes
+  grade: significant
+- record_id: R00484
+  term: Index of energy and efficiency
+  grade: significant
+- record_id: R00484
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00485
+  term: Air pollution
+  grade: significant
+- record_id: R00485
+  term: Financial-based outcomes
+  grade: significant
+- record_id: R00486
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00486
+  term: Index of energy and efficiency
+  grade: significant
+- record_id: R00487
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00488
+  term: Other outcome
+  grade: very significant
+- record_id: R00488
+  term: Investment in R&D
+  grade: outcome was worsened
+- record_id: R00488
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00489
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00490
+  term: Index environmental protection
+  grade: significant
+- record_id: R00491
+  term: Air pollution
+  grade: significant
+- record_id: R00492
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00492
+  term: Investment in R&D
+  grade: significant
+- record_id: R00492
+  term: Index of energy and efficiency
+  grade: significant
+- record_id: R00494
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00495
+  term: Air pollution
+  grade: significant
+- record_id: R00496
+  term: Overall environmental performance
+  grade: significant
+- record_id: R00498
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00500
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00501
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00502
+  term: Air pollution
+  grade: significant
+- record_id: R00503
+  term: Exchange rates
+  grade: significant
+- record_id: R00503
+  term: New road construction
+  grade: significant
+- record_id: R00504
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00505
+  term: Air pollution
+  grade: significant
+- record_id: R00506
+  term: Air pollution
+  grade: significant
+- record_id: R00507
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00508
+  term: Water pollution
+  grade: significant
+- record_id: R00509
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00510
+  term: Economic growth
+  grade: outcome was worsened
+- record_id: R00510
+  term: Private investment
+  grade: neutral/mixed results
+- record_id: R00510
+  term: Total factor productivity
+  grade: outcome was worsened
+- record_id: R00511
+  term: Greenhouse gas emissions
+  grade: neutral/mixed results
+- record_id: R00511
+  term: Air pollution
+  grade: neutral/mixed results
+- record_id: R00513
+  term: Air pollution
+  grade: significant
+- record_id: R00514
+  term: Air pollution
+  grade: significant
+- record_id: R00515
+  term: Vegetation levels
+  grade: significant
+- record_id: R00516
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00517
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00518
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00519
+  term: Open defecation
+  grade: significant
+- record_id: R00519
+  term: Index of latrine or toilet use
+  grade: no information
+- record_id: R00520
+  term: Economic growth
+  grade: significant
+- record_id: R00521
+  term: Adoption of recommended inorganic fertiliser practices
+  grade: very significant
+- record_id: R00521
+  term: Rice yield
+  grade: no effect
+- record_id: R00522
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00523
+  term: Total factor productivity
+  grade: outcome was worsened
+- record_id: R00525
+  term: Greenhouse gas emissions
+  grade: neutral/mixed results
+- record_id: R00527
+  term: Index of energy and efficiency
+  grade: very significant
+- record_id: R00527
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00528
+  term: Greenhouse gas emissions
+  grade: neutral/mixed results
+- record_id: R00530
+  term: Index environmental protection
+  grade: neutral/mixed results
+- record_id: R00531
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00532
+  term: Air pollution
+  grade: significant
+- record_id: R00535
+  term: Profits and revenues
+  grade: significant
+- record_id: R00537
+  term: Air pollution
+  grade: significant
+- record_id: R00538
+  term: Total factor productivity
+  grade: significant
+- record_id: R00538
+  term: Overall environmental performance
+  grade: significant
+- record_id: R00540
+  term: Air pollution
+  grade: significant
+- record_id: R00541
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00542
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00543
+  term: Total factor productivity
+  grade: very significant
+- record_id: R00543
+  term: Water pollution
+  grade: no information
+- record_id: R00544
+  term: Infant mortality
+  grade: very significant
+- record_id: R00544
+  term: Greenhouse gas emissions
+  grade: no information
+- record_id: R00544
+  term: Economic growth
+  grade: significant
+- record_id: R00545
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00546
+  term: Air pollution
+  grade: significant
+- record_id: R00547
+  term: Air pollution
+  grade: very significant
+- record_id: R00548
+  term: Greenhouse gas emissions
+  grade: neutral/mixed results
+- record_id: R00548
+  term: Air pollution
+  grade: significant
+- record_id: R00549
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00553
+  term: Income from agriculture
+  grade: very significant
+- record_id: R00553
+  term: Income from crop production
+  grade: very significant
+- record_id: R00554
+  term: Water pollution due to agricultural activities
+  grade: significant
+- record_id: R00555
+  term: Air pollution
+  grade: very significant
+- record_id: R00556
+  term: Economic growth
+  grade: significant
+- record_id: R00557
+  term: Water pollution
+  grade: very significant
+- record_id: R00558
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00558
+  term: Total factor productivity
+  grade: significant
+- record_id: R00559
+  term: Chemical water contamination
+  grade: significant
+- record_id: R00560
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00562
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00563
+  term: Greenhouse gas emissions
+  grade: neutral/mixed results
+- record_id: R00564
+  term: Water pollution
+  grade: outcome was worsened
+- record_id: R00564
+  term: Air pollution
+  grade: outcome was worsened
+- record_id: R00566
+  term: Income from forestry
+  grade: significant
+- record_id: R00567
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00569
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00570
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00571
+  term: Index of energy and efficiency
+  grade: significant
+- record_id: R00571
+  term: Air pollution
+  grade: significant
+- record_id: R00572
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00573
+  term: Index environmental protection
+  grade: neutral/mixed results
+- record_id: R00574
+  term: Traditional fuel consumption
+  grade: neutral/mixed results
+- record_id: R00575
+  term: Index of household energy consumption
+  grade: neutral/mixed results
+- record_id: R00576
+  term: Regulation violations
+  grade: significant
+- record_id: R00576
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00577
+  term: Air pollution
+  grade: significant
+- record_id: R00578
+  term: Aggregate crop yield
+  grade: significant
+- record_id: R00578
+  term: Food security index
+  grade: significant
+- record_id: R00578
+  term: Food supply adequacy
+  grade: significant
+- record_id: R00579
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00580
+  term: Greenhouse gas emissions
+  grade: neutral/mixed results
+- record_id: R00581
+  term: Greenhouse gas emissions
+  grade: neutral/mixed results
+- record_id: R00582
+  term: Greenhouse gas emissions
+  grade: no information
+- record_id: R00583
+  term: Wheat yield
+  grade: outcome was worsened
+- record_id: R00583
+  term: Rice prices
+  grade: no information
+- record_id: R00583
+  term: Rice yield
+  grade: outcome was worsened
+- record_id: R00583
+  term: Soya yield
+  grade: outcome was worsened
+- record_id: R00584
+  term: Greenhouse gas emissions
+  grade: outcome was worsened
+- record_id: R00585
+  term: Income from fish production
+  grade: significant
+- record_id: R00585
+  term: Index aquaculture production
+  grade: significant
+- record_id: R00585
+  term: Management practices and skills
+  grade: significant
+- record_id: R00586
+  term: Income from fish production
+  grade: significant
+- record_id: R00586
+  term: Knowledge of recommended animal feeding practices
+  grade: significant
+- record_id: R00587
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00588
+  term: Greenhouse gas emissions
+  grade: no information
+- record_id: R00589
+  term: Index of farmers' adoption of recommended practices
+  grade: significant
+- record_id: R00589
+  term: Income from fish production
+  grade: significant
+- record_id: R00591
+  term: Maize yield
+  grade: neutral/mixed results
+- record_id: R00591
+  term: Income from agriculture
+  grade: significant
+- record_id: R00592
+  term: Water pollution
+  grade: neutral/mixed results
+- record_id: R00593
+  term: Greenhouse gas emissions
+  grade: outcome was worsened
+- record_id: R00594
+  term: Economic growth
+  grade: significant
+- record_id: R00594
+  term: Air pollution
+  grade: significant
+- record_id: R00595
+  term: Water pollution
+  grade: significant
+- record_id: R00595
+  term: Air pollution
+  grade: very significant
+- record_id: R00596
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00597
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00598
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00599
+  term: Greenhouse gas emissions
+  grade: neutral/mixed results
+- record_id: R00600
+  term: Sales
+  grade: significant
+- record_id: R00600
+  term: Land certification
+  grade: significant
+- record_id: R00602
+  term: Air pollution
+  grade: significant
+- record_id: R00603
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00604
+  term: Air pollution
+  grade: very significant
+- record_id: R00607
+  term: Air pollution
+  grade: significant
+- record_id: R00608
+  term: Air pollution
+  grade: significant
+- record_id: R00609
+  term: Index of access to sanitation
+  grade: very significant
+- record_id: R00609
+  term: Height
+  grade: significant
+- record_id: R00609
+  term: Open defecation
+  grade: significant
+- record_id: R00609
+  term: Handwashing behaviour
+  grade: no information
+- record_id: R00610
+  term: Index of employment
+  grade: significant
+- record_id: R00611
+  term: Deforestation
+  grade: significant
+- record_id: R00611
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00612
+  term: Income from crop production
+  grade: very significant
+- record_id: R00613
+  term: Air pollution
+  grade: no information
+- record_id: R00613
+  term: Export activity
+  grade: significant
+- record_id: R00614
+  term: Wind energy generation
+  grade: neutral/mixed results
+- record_id: R00615
+  term: Air pollution
+  grade: very significant
+- record_id: R00616
+  term: Index of land allocation & use
+  grade: outcome was worsened
+- record_id: R00616
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00617
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00619
+  term: Air pollution
+  grade: no information
+- record_id: R00619
+  term: Travel time to work
+  grade: significant
+- record_id: R00620
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00621
+  term: Index of household energy consumption
+  grade: no information
+- record_id: R00623
+  term: Bacterial water contamination
+  grade: very significant
+- record_id: R00625
+  term: Household energy consumption
+  grade: no information
+- record_id: R00626
+  term: Bacterial water contamination
+  grade: significant
+- record_id: R00628
+  term: Air pollution
+  grade: significant
+- record_id: R00629
+  term: Air pollution
+  grade: neutral/mixed results
+- record_id: R00629
+  term: Water pollution
+  grade: neutral/mixed results
+- record_id: R00630
+  term: Willingness to participate (social)
+  grade: significant
+- record_id: R00630
+  term: Willingness to pay for access to sanitation facilities
+  grade: significant
+- record_id: R00631
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00632
+  term: Micronutrient status
+  grade: significant
+- record_id: R00633
+  term: Access to water
+  grade: significant
+- record_id: R00634
+  term: Deforestation
+  grade: no effect
+- record_id: R00634
+  term: Forest coverage
+  grade: no effect
+- record_id: R00634
+  term: Household economic well-being
+  grade: outcome was worsened
+- record_id: R00635
+  term: Air pollution
+  grade: significant
+- record_id: R00636
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00638
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00639
+  term: Air pollution
+  grade: very significant
+- record_id: R00639
+  term: Financial-based outcomes
+  grade: neutral/mixed results
+- record_id: R00641
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00642
+  term: Air pollution
+  grade: neutral/mixed results
+- record_id: R00643
+  term: Export firm behaviour
+  grade: significant
+- record_id: R00643
+  term: Air pollution
+  grade: significant
+- record_id: R00644
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00645
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00646
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00647
+  term: Air pollution
+  grade: significant
+- record_id: R00649
+  term: Deforestation
+  grade: outcome was worsened
+- record_id: R00649
+  term: Livelihoods and employment behaviours
+  grade: outcome was worsened
+- record_id: R00650
+  term: Income from forestry
+  grade: no information
+- record_id: R00650
+  term: Income from agriculture
+  grade: no information
+- record_id: R00650
+  term: Loans outstanding
+  grade: very significant
+- record_id: R00650
+  term: Savings account
+  grade: very significant
+- record_id: R00650
+  term: Land holdings
+  grade: very significant
+- record_id: R00650
+  term: Social empowerment
+  grade: very significant
+- record_id: R00650
+  term: Education level
+  grade: significant
+- record_id: R00651
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00652
+  term: Household energy consumption
+  grade: significant
+- record_id: R00653
+  term: Index of land allocation & use
+  grade: neutral/mixed results
+- record_id: R00653
+  term: Crop diversification
+  grade: neutral/mixed results
+- record_id: R00654
+  term: Cost of water
+  grade: no effect
+- record_id: R00655
+  term: Greenhouse gas emissions
+  grade: neutral/mixed results
+- record_id: R00656
+  term: Air pollution
+  grade: significant
+- record_id: R00656
+  term: Water pollution
+  grade: significant
+- record_id: R00657
+  term: Air pollution
+  grade: very significant
+- record_id: R00657
+  term: Water pollution
+  grade: no information
+- record_id: R00658
+  term: Air pollution
+  grade: neutral/mixed results
+- record_id: R00660
+  term: Index insurance
+  grade: no information
+- record_id: R00661
+  term: Food consumption
+  grade: neutral/mixed results
+- record_id: R00661
+  term: Crop diversification
+  grade: no information
+- record_id: R00661
+  term: Nutrition knowledge
+  grade: significant
+- record_id: R00662
+  term: Water pollution
+  grade: very significant
+- record_id: R00662
+  term: Air pollution
+  grade: significant
+- record_id: R00663
+  term: Gross Domestic Product
+  grade: significant
+- record_id: R00663
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00664
+  term: Aggregate crop yield
+  grade: significant
+- record_id: R00664
+  term: Input prices
+  grade: no information
+- record_id: R00664
+  term: Crop irrigation equipment
+  grade: no information
+- record_id: R00665
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00666
+  term: Indoor air pollution
+  grade: significant
+- record_id: R00667
+  term: Adoption of recommended water/irrigation practices
+  grade: neutral/mixed results
+- record_id: R00667
+  term: Paid labour in agriculture
+  grade: no information
+- record_id: R00667
+  term: On-farm work time
+  grade: neutral/mixed results
+- record_id: R00667
+  term: Profits and revenues
+  grade: very significant
+- record_id: R00668
+  term: Adoption of recommended inorganic fertiliser practices
+  grade: significant
+- record_id: R00668
+  term: Maize yield
+  grade: significant
+- record_id: R00668
+  term: Profits and revenues
+  grade: significant
+- record_id: R00670
+  term: Open defecation
+  grade: significant
+- record_id: R00671
+  term: Willingness to pay for energy
+  grade: very significant
+- record_id: R00672
+  term: Index of water supply quality
+  grade: no effect
+- record_id: R00673
+  term: Adoption of recommended planting practices
+  grade: very significant
+- record_id: R00673
+  term: Index of soil quality
+  grade: significant
+- record_id: R00673
+  term: Aggregate crop yield
+  grade: significant
+- record_id: R00675
+  term: Forest coverage
+  grade: very significant
+- record_id: R00676
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00677
+  term: Forest coverage
+  grade: neutral/mixed results
+- record_id: R00678
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00679
+  term: Attitudes toward recycling and reuse
+  grade: significant
+- record_id: R00680
+  term: Air pollution
+  grade: neutral/mixed results
+- record_id: R00681
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00682
+  term: Deforestation
+  grade: significant
+- record_id: R00683
+  term: Air pollution
+  grade: very significant
+- record_id: R00685
+  term: Indoor air pollution
+  grade: very significant
+- record_id: R00687
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00688
+  term: Access to water
+  grade: significant
+- record_id: R00688
+  term: Diarrhoeal disease
+  grade: significant
+- record_id: R00688
+  term: Overall student attendance
+  grade: no effect
+- record_id: R00689
+  term: Household energy consumption
+  grade: very significant
+- record_id: R00690
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00690
+  term: Return on assets
+  grade: significant
+- record_id: R00690
+  term: Profits and revenues
+  grade: significant
+- record_id: R00690
+  term: Return on equity
+  grade: significant
+- record_id: R00690
+  term: Investment in R&D
+  grade: significant
+- record_id: R00690
+  term: Liquid assets
+  grade: no information
+- record_id: R00690
+  term: Gross Domestic Product
+  grade: significant
+- record_id: R00691
+  term: Air pollution
+  grade: very significant
+- record_id: R00692
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00693
+  term: Air pollution
+  grade: outcome was worsened
+- record_id: R00694
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00695
+  term: Air pollution
+  grade: significant
+- record_id: R00696
+  term: Air pollution
+  grade: very significant
+- record_id: R00697
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00697
+  term: Economic growth
+  grade: significant
+- record_id: R00698
+  term: Diarrhoeal disease
+  grade: significant
+- record_id: R00698
+  term: Handwashing behaviour
+  grade: outcome was worsened
+- record_id: R00698
+  term: Practice safe water storage
+  grade: outcome was worsened
+- record_id: R00699
+  term: New latrine or toilet construction
+  grade: significant
+- record_id: R00699
+  term: Latrine or toilet renovation and retrofitting
+  grade: significant
+- record_id: R00699
+  term: Latrine or toilet access
+  grade: significant
+- record_id: R00699
+  term: Latrine or toilet ownership
+  grade: significant
+- record_id: R00699
+  term: Latrine or toilet quality
+  grade: significant
+- record_id: R00700
+  term: Aggregate crop yield
+  grade: neutral/mixed results
+- record_id: R00701
+  term: Maize yield
+  grade: significant
+- record_id: R00701
+  term: Wheat yield
+  grade: very significant
+- record_id: R00702
+  term: Maize yield
+  grade: significant
+- record_id: R00703
+  term: Income from crop production
+  grade: neutral/mixed results
+- record_id: R00703
+  term: Adoption of recommended seed selection
+  grade: significant
+- record_id: R00703
+  term: Food security index
+  grade: significant
+- record_id: R00703
+  term: Adoption of recommended planting practices
+  grade: significant
+- record_id: R00704
+  term: Rice yield
+  grade: very significant
+- record_id: R00704
+  term: Wheat yield
+  grade: very significant
+- record_id: R00704
+  term: Land use allocation decision making
+  grade: very significant
+- record_id: R00704
+  term: Mechanised farming equipment
+  grade: significant
+- record_id: R00706
+  term: Maize yield
+  grade: significant
+- record_id: R00706
+  term: Income from crop production
+  grade: significant
+- record_id: R00706
+  term: Food security index
+  grade: significant
+- record_id: R00707
+  term: Income from crop production
+  grade: significant
+- record_id: R00707
+  term: Maize yield
+  grade: no information
+- record_id: R00707
+  term: Maize prices
+  grade: significant
+- record_id: R00708
+  term: Rice yield
+  grade: very significant
+- record_id: R00708
+  term: Water used for irrigation
+  grade: very significant
+- record_id: R00709
+  term: Water pollution due to agricultural activities
+  grade: no information
+- record_id: R00709
+  term: Food safety - Measures of toxins in food
+  grade: no information
+- record_id: R00710
+  term: Wheat yield
+  grade: significant
+- record_id: R00711
+  term: Soya yield
+  grade: outcome was worsened
+- record_id: R00711
+  term: Soya volume sold
+  grade: outcome was worsened
+- record_id: R00711
+  term: Maize yield
+  grade: neutral/mixed results
+- record_id: R00711
+  term: Other crop yield
+  grade: outcome was worsened
+- record_id: R00711
+  term: Household economic well-being
+  grade: neutral/mixed results
+- record_id: R00712
+  term: Overall household income
+  grade: significant
+- record_id: R00712
+  term: Income from agriculture
+  grade: very significant
+- record_id: R00712
+  term: Income from crop production
+  grade: significant
+- record_id: R00712
+  term: Output prices
+  grade: outcome was worsened
+- record_id: R00712
+  term: Sales
+  grade: very significant
+- record_id: R00712
+  term: Area allocated to crops
+  grade: significant
+- record_id: R00713
+  term: Overall household income
+  grade: significant
+- record_id: R00713
+  term: Environmental hygiene
+  grade: outcome was worsened
+- record_id: R00714
+  term: Forest coverage
+  grade: significant
+- record_id: R00716
+  term: Sales
+  grade: significant
+- record_id: R00716
+  term: Harvest-related crop losses
+  grade: very significant
+- record_id: R00717
+  term: Access to water
+  grade: no information
+- record_id: R00717
+  term: Health and safety behaviours
+  grade: neutral/mixed results
+- record_id: R00717
+  term: Food consumption
+  grade: neutral/mixed results
+- record_id: R00717
+  term: Happiness
+  grade: very significant
+- record_id: R00717
+  term: Quality of life/Life satisfaction
+  grade: significant
+- record_id: R00717
+  term: Access to healthcare
+  grade: neutral/mixed results
+- record_id: R00717
+  term: Attendance at health facilities
+  grade: neutral/mixed results
+- record_id: R00718
+  term: Cotton yield
+  grade: no effect
+- record_id: R00720
+  term: Rice yield
+  grade: very significant
+- record_id: R00721
+  term: Income from crop production
+  grade: outcome was worsened
+- record_id: R00721
+  term: Economic empowerment
+  grade: outcome was worsened
+- record_id: R00721
+  term: Social empowerment
+  grade: neutral/mixed results
+- record_id: R00721
+  term: General Intra-household bargaining power
+  grade: outcome was worsened
+- record_id: R00722
+  term: Maize yield
+  grade: no effect
+- record_id: R00722
+  term: Maize value sold
+  grade: significant
+- record_id: R00722
+  term: Maize volume sold
+  grade: very significant
+- record_id: R00723
+  term: Aggregate crop yield
+  grade: outcome was worsened
+- record_id: R00723
+  term: Rice yield
+  grade: outcome was worsened
+- record_id: R00724
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00725
+  term: Greenhouse gas emissions
+  grade: no information
+- record_id: R00726
+  term: Wealth and assets
+  grade: neutral/mixed results
+- record_id: R00726
+  term: fertiliser prices
+  grade: significant
+- record_id: R00727
+  term: Milk quantity
+  grade: very significant
+- record_id: R00728
+  term: Deforestation
+  grade: very significant
+- record_id: R00729
+  term: Air pollution
+  grade: significant
+- record_id: R00730
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00731
+  term: Dietary diversity
+  grade: neutral/mixed results
+- record_id: R00731
+  term: Dietary diversity - maternal care
+  grade: neutral/mixed results
+- record_id: R00731
+  term: Food security index
+  grade: neutral/mixed results
+- record_id: R00731
+  term: Height
+  grade: significant
+- record_id: R00731
+  term: Crop diversification
+  grade: very significant
+- record_id: R00731
+  term: Nutrition
+  grade: significant
+- record_id: R00732
+  term: Total factor productivity
+  grade: significant
+- record_id: R00732
+  term: Water pollution
+  grade: very significant
+- record_id: R00732
+  term: Investment in R&D
+  grade: no information
+- record_id: R00733
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00734
+  term: Air pollution
+  grade: no effect
+- record_id: R00735
+  term: Aggregate crop yield
+  grade: neutral/mixed results
+- record_id: R00736
+  term: Community demography
+  grade: significant
+- record_id: R00736
+  term: Employment share
+  grade: outcome was worsened
+- record_id: R00736
+  term: Aggregate crop yield
+  grade: significant
+- record_id: R00737
+  term: Profits and revenues
+  grade: significant
+- record_id: R00737
+  term: Index of household wealth or assets
+  grade: no effect
+- record_id: R00737
+  term: Index of livestock holdings
+  grade: no effect
+- record_id: R00738
+  term: Overuse of inorganic fertiliser
+  grade: very significant
+- record_id: R00738
+  term: Overuse of pesticides
+  grade: significant
+- record_id: R00739
+  term: Index of farmers' adoption of recommended practices
+  grade: neutral/mixed results
+- record_id: R00739
+  term: Crop diversification
+  grade: no information
+- record_id: R00740
+  term: Air pollution
+  grade: outcome was worsened
+- record_id: R00741
+  term: Maize yield
+  grade: very significant
+- record_id: R00741
+  term: Income from crop production
+  grade: significant
+- record_id: R00741
+  term: Overall crop production
+  grade: very significant
+- record_id: R00741
+  term: Adoption of recommended organic fertiliser practices
+  grade: neutral/mixed results
+- record_id: R00742
+  term: Aggregate crop yield
+  grade: significant
+- record_id: R00742
+  term: Index of farmers' adoption of recommended practices
+  grade: significant
+- record_id: R00742
+  term: Overall household income
+  grade: significant
+- record_id: R00742
+  term: Poverty status
+  grade: significant
+- record_id: R00743
+  term: Food security index
+  grade: neutral/mixed results
+- record_id: R00744
+  term: Greenhouse gas emissions from agriculture/composting
+  grade: neutral/mixed results
+- record_id: R00745
+  term: Index insurance
+  grade: no information
+- record_id: R00746
+  term: Greenhouse gas emissions from agriculture/composting
+  grade: very significant
+- record_id: R00747
+  term: Labour costs
+  grade: significant
+- record_id: R00747
+  term: Maize yield
+  grade: very significant
+- record_id: R00747
+  term: Income from crop production
+  grade: very significant
+- record_id: R00748
+  term: Biological diversity
+  grade: neutral/mixed results
+- record_id: R00750
+  term: Forest coverage
+  grade: significant
+- record_id: R00750
+  term: Household livelihood
+  grade: neutral/mixed results
+- record_id: R00751
+  term: Forest coverage
+  grade: very significant
+- record_id: R00752
+  term: Forest coverage
+  grade: significant
+- record_id: R00754
+  term: Deforestation
+  grade: significant
+- record_id: R00756
+  term: Vegetation levels
+  grade: neutral/mixed results
+- record_id: R00756
+  term: Overall household income
+  grade: significant
+- record_id: R00757
+  term: Forest coverage
+  grade: significant
+- record_id: R00757
+  term: Income from agriculture
+  grade: significant
+- record_id: R00757
+  term: Aggregate crop yield
+  grade: significant
+- record_id: R00758
+  term: Rice yield
+  grade: neutral/mixed results
+- record_id: R00758
+  term: Maize yield
+  grade: neutral/mixed results
+- record_id: R00759
+  term: Rice yield
+  grade: very significant
+- record_id: R00759
+  term: Income from crop production
+  grade: significant
+- record_id: R00760
+  term: Forest coverage
+  grade: neutral/mixed results
+- record_id: R00761
+  term: Biological diversity
+  grade: neutral/mixed results
+- record_id: R00763
+  term: Greenhouse gas emissions from agriculture/composting
+  grade: significant
+- record_id: R00764
+  term: Index of economic indicators
+  grade: no effect
+- record_id: R00765
+  term: Individual economic well-being
+  grade: significant
+- record_id: R00765
+  term: Income from forestry
+  grade: significant
+- record_id: R00765
+  term: Income inequality
+  grade: significant
+- record_id: R00766
+  term: Forest coverage
+  grade: significant
+- record_id: R00767
+  term: Index of farmers' adoption of recommended practices
+  grade: significant
+- record_id: R00767
+  term: Aggregate crop yield
+  grade: significant
+- record_id: R00768
+  term: Household energy consumption
+  grade: neutral/mixed results
+- record_id: R00776
+  term: Household energy consumption
+  grade: very significant
+- record_id: R00777
+  term: Household energy consumption
+  grade: significant
+- record_id: R00777
+  term: Appliance usage and ownership
+  grade: significant
+- record_id: R00777
+  term: Loans outstanding
+  grade: neutral/mixed results
+- record_id: R00779
+  term: Value added products
+  grade: outcome was worsened
+- record_id: R00779
+  term: Labour productivity
+  grade: outcome was worsened
+- record_id: R00779
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00779
+  term: Workers per firm
+  grade: significant
+- record_id: R00780
+  term: Air pollution
+  grade: very significant
+- record_id: R00781
+  term: Aggregate crop yield
+  grade: significant
+- record_id: R00781
+  term: Income from crop production
+  grade: significant
+- record_id: R00782
+  term: Index of energy and efficiency
+  grade: significant
+- record_id: R00782
+  term: Household energy consumption
+  grade: significant
+- record_id: R00783
+  term: Index of household energy consumption
+  grade: significant
+- record_id: R00783
+  term: Light/lumen hours per day
+  grade: significant
+- record_id: R00783
+  term: Satisfactory resolution
+  grade: significant
+- record_id: R00784
+  term: Household energy consumption
+  grade: neutral/mixed results
+- record_id: R00785
+  term: Indoor air pollution
+  grade: very significant
+- record_id: R00786
+  term: Willingness to pay for energy
+  grade: no information
+- record_id: R00786
+  term: Cost of energy production
+  grade: no information
+- record_id: R00788
+  term: Food security index
+  grade: neutral/mixed results
+- record_id: R00788
+  term: Household economic well-being
+  grade: neutral/mixed results
+- record_id: R00788
+  term: Sales
+  grade: significant
+- record_id: R00788
+  term: Aggregate crop yield
+  grade: significant
+- record_id: R00788
+  term: Index of household income
+  grade: neutral/mixed results
+- record_id: R00789
+  term: Air pollution
+  grade: very significant
+- record_id: R00790
+  term: Indoor air pollution
+  grade: very significant
+- record_id: R00790
+  term: Cost of energy production
+  grade: no information
+- record_id: R00791
+  term: Greenhouse gas emissions
+  grade: outcome was worsened
+- record_id: R00792
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00793
+  term: Solar energy generation
+  grade: significant
+- record_id: R00794
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00795
+  term: Overall student attendance
+  grade: significant
+- record_id: R00795
+  term: Child labour
+  grade: no information
+- record_id: R00795
+  term: Livelihoods - health
+  grade: no information
+- record_id: R00797
+  term: Household energy consumption
+  grade: no information
+- record_id: R00798
+  term: Hepatitis A related to WaSH
+  grade: very significant
+- record_id: R00798
+  term: Dysentery
+  grade: very significant
+- record_id: R00798
+  term: Infant mortality
+  grade: no effect
+- record_id: R00798
+  term: Under-five mortality in children
+  grade: neutral/mixed results
+- record_id: R00798
+  term: Neonatal mortality
+  grade: no effect
+- record_id: R00798
+  term: Index of gastrointestinal illness
+  grade: very significant
+- record_id: R00800
+  term: Greenhouse gas emissions
+  grade: neutral/mixed results
+- record_id: R00801
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00802
+  term: Overall environmental performance
+  grade: significant
+- record_id: R00802
+  term: Index environmental protection
+  grade: significant
+- record_id: R00803
+  term: Labour productivity
+  grade: outcome was worsened
+- record_id: R00803
+  term: Air pollution
+  grade: significant
+- record_id: R00804
+  term: Greenhouse gas emissions
+  grade: neutral/mixed results
+- record_id: R00805
+  term: Air pollution
+  grade: outcome was worsened
+- record_id: R00806
+  term: Air pollution
+  grade: significant
+- record_id: R00807
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00808
+  term: Air pollution
+  grade: significant
+- record_id: R00808
+  term: Greenhouse gas emissions
+  grade: neutral/mixed results
+- record_id: R00808
+  term: Gross Domestic Product
+  grade: no effect
+- record_id: R00809
+  term: Air pollution
+  grade: neutral/mixed results
+- record_id: R00810
+  term: Open defecation
+  grade: neutral/mixed results
+- record_id: R00811
+  term: Air pollution
+  grade: very significant
+- record_id: R00812
+  term: Index of economic indicators
+  grade: no information
+- record_id: R00812
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00814
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00815
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00816
+  term: Cotton yield
+  grade: very significant
+- record_id: R00816
+  term: Wheat yield
+  grade: very significant
+- record_id: R00816
+  term: Rice yield
+  grade: very significant
+- record_id: R00816
+  term: Income from crop production
+  grade: very significant
+- record_id: R00817
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00817
+  term: Economic growth
+  grade: neutral/mixed results
+- record_id: R00819
+  term: Forest coverage
+  grade: outcome was worsened
+- record_id: R00819
+  term: Land rights
+  grade: neutral/mixed results
+- record_id: R00820
+  term: Forest coverage
+  grade: very significant
+- record_id: R00821
+  term: Index of household energy consumption
+  grade: no information
+- record_id: R00822
+  term: Index of household energy consumption
+  grade: significant
+- record_id: R00823
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00824
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00825
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00826
+  term: Air pollution
+  grade: very significant
+- record_id: R00827
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00828
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00829
+  term: Technical losses - energy
+  grade: significant
+- record_id: R00829
+  term: Electrification
+  grade: very significant
+- record_id: R00829
+  term: Index of energy and efficiency
+  grade: very significant
+- record_id: R00830
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00831
+  term: Deforestation
+  grade: significant
+- record_id: R00832
+  term: Air pollution
+  grade: significant
+- record_id: R00833
+  term: Gross Domestic Product
+  grade: outcome was worsened
+- record_id: R00833
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00833
+  term: Investment in R&D
+  grade: no effect
+- record_id: R00834
+  term: Air pollution
+  grade: significant
+- record_id: R00835
+  term: Adoption of recommended harvesting practices
+  grade: significant
+- record_id: R00835
+  term: Maize yield
+  grade: significant
+- record_id: R00836
+  term: Crop irrigation equipment
+  grade: very significant
+- record_id: R00836
+  term: Other crop yield
+  grade: no effect
+- record_id: R00837
+  term: Rubbish removal
+  grade: significant
+- record_id: R00838
+  term: Willingness to pay for energy
+  grade: significant
+- record_id: R00839
+  term: Air pollution
+  grade: neutral/mixed results
+- record_id: R00840
+  term: Air pollution
+  grade: no information
+- record_id: R00842
+  term: Aggregate crop yield
+  grade: outcome was worsened
+- record_id: R00842
+  term: Index of mortality
+  grade: outcome was worsened
+- record_id: R00843
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00844
+  term: Wind energy generation
+  grade: significant
+- record_id: R00844
+  term: Solar energy generation
+  grade: no information
+- record_id: R00846
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00846
+  term: Air pollution
+  grade: very significant
+- record_id: R00847
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00847
+  term: Sector growth
+  grade: no effect
+- record_id: R00847
+  term: Total factor productivity
+  grade: neutral/mixed results
+- record_id: R00848
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00850
+  term: Air pollution
+  grade: neutral/mixed results
+- record_id: R00852
+  term: Household energy consumption
+  grade: significant
+- record_id: R00853
+  term: Area allocated to crops
+  grade: significant
+- record_id: R00854
+  term: Air pollution
+  grade: significant
+- record_id: R00855
+  term: Index of water supply quality
+  grade: significant
+- record_id: R00857
+  term: On-farm work time
+  grade: outcome was worsened
+- record_id: R00857
+  term: Child labour
+  grade: outcome was worsened
+- record_id: R00857
+  term: Index of school enrolment and attendance
+  grade: significant
+- record_id: R00857
+  term: Index of empowerment
+  grade: significant
+- record_id: R00857
+  term: Aggregate crop yield
+  grade: no effect
+- record_id: R00857
+  term: Household economic well-being
+  grade: outcome was worsened
+- record_id: R00858
+  term: Air pollution
+  grade: significant
+- record_id: R00858
+  term: Water pollution
+  grade: significant
+- record_id: R00859
+  term: Forest coverage
+  grade: significant
+- record_id: R00859
+  term: Regulation violations
+  grade: significant
+- record_id: R00860
+  term: Deforestation
+  grade: neutral/mixed results
+- record_id: R00861
+  term: Road traffic
+  grade: outcome was worsened
+- record_id: R00861
+  term: Air pollution
+  grade: neutral/mixed results
+- record_id: R00862
+  term: Maize yield
+  grade: very significant
+- record_id: R00862
+  term: Rice yield
+  grade: no information
+- record_id: R00864
+  term: Greenhouse gas emissions
+  grade: outcome was worsened
+- record_id: R00865
+  term: Quality of energy source
+  grade: very significant
+- record_id: R00866
+  term: Household energy consumption
+  grade: no information
+- record_id: R00866
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00867
+  term: Forest coverage
+  grade: significant
+- record_id: R00868
+  term: Air pollution
+  grade: very significant
+- record_id: R00870
+  term: Latrine or toilet ownership
+  grade: significant
+- record_id: R00870
+  term: New latrine or toilet construction
+  grade: significant
+- record_id: R00870
+  term: Latrine or toilet access
+  grade: significant
+- record_id: R00870
+  term: Stunting in children
+  grade: significant
+- record_id: R00871
+  term: Aggregate crop yield
+  grade: significant
+- record_id: R00871
+  term: Food security index
+  grade: significant
+- record_id: R00871
+  term: Crop diversification
+  grade: no effect
+- record_id: R00873
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00874
+  term: Incidence of violence
+  grade: no information
+- record_id: R00874
+  term: Index of agricultural knowledge
+  grade: significant
+- record_id: R00874
+  term: Index of farmers' adoption of recommended practices
+  grade: significant
+- record_id: R00874
+  term: Access to credit
+  grade: significant
+- record_id: R00875
+  term: Area allocated to crops
+  grade: no effect
+- record_id: R00875
+  term: Area allocated to livestock
+  grade: neutral/mixed results
+- record_id: R00877
+  term: Bacterial water contamination
+  grade: significant
+- record_id: R00878
+  term: Deforestation
+  grade: very significant
+- record_id: R00879
+  term: Air pollution
+  grade: very significant
+- record_id: R00880
+  term: Deforestation
+  grade: significant
+- record_id: R00881
+  term: Household energy source
+  grade: very significant
+- record_id: R00881
+  term: Willingness to pay for energy
+  grade: neutral/mixed results
+- record_id: R00882
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00884
+  term: Income from agriculture
+  grade: neutral/mixed results
+- record_id: R00884
+  term: Capital
+  grade: neutral/mixed results
+- record_id: R00886
+  term: Index of soil quality
+  grade: very significant
+- record_id: R00886
+  term: Maize yield
+  grade: very significant
+- record_id: R00887
+  term: Maize yield
+  grade: significant
+- record_id: R00887
+  term: Food security index
+  grade: significant
+- record_id: R00888
+  term: Electrification
+  grade: very significant
+- record_id: R00889
+  term: Adoption of recommended water/irrigation practices
+  grade: significant
+- record_id: R00890
+  term: Coffee prices
+  grade: significant
+- record_id: R00890
+  term: Coffee volume sold
+  grade: significant
+- record_id: R00890
+  term: Coffee value sold
+  grade: neutral/mixed results
+- record_id: R00890
+  term: Income from crop production
+  grade: neutral/mixed results
+- record_id: R00891
+  term: Deforestation
+  grade: significant
+- record_id: R00892
+  term: Water use in agriculture
+  grade: neutral/mixed results
+- record_id: R00893
+  term: Deforestation
+  grade: outcome was worsened
+- record_id: R00894
+  term: Chemical exposure from agricultural chemicals
+  grade: neutral/mixed results
+- record_id: R00894
+  term: Chemical water contamination
+  grade: neutral/mixed results
+- record_id: R00895
+  term: Aggregate crop yield
+  grade: significant
+- record_id: R00895
+  term: Income from agriculture
+  grade: significant
+- record_id: R00896
+  term: Crop diversification
+  grade: significant
+- record_id: R00896
+  term: Aggregate crop yield
+  grade: significant
+- record_id: R00896
+  term: Income from crop production
+  grade: significant
+- record_id: R00897
+  term: Overuse of pesticides
+  grade: significant
+- record_id: R00897
+  term: Overuse of inorganic fertiliser
+  grade: significant
+- record_id: R00898
+  term: Handwashing behaviour
+  grade: no information
+- record_id: R00898
+  term: Satisfaction with latrine or toilet
+  grade: no information
+- record_id: R00898
+  term: School facilities
+  grade: no information
+- record_id: R00899
+  term: Area allocated to crops
+  grade: very significant
+- record_id: R00899
+  term: Overall crop production
+  grade: significant
+- record_id: R00900
+  term: Adoption of recommended crop storage practices
+  grade: very significant
+- record_id: R00900
+  term: Storage-related crop losses
+  grade: very significant
+- record_id: R00900
+  term: Household expenditure on food
+  grade: significant
+- record_id: R00902
+  term: Adoption of recommended inorganic fertiliser practices
+  grade: significant
+- record_id: R00902
+  term: Aggregate crop yield
+  grade: no effect
+- record_id: R00902
+  term: Profits and revenues
+  grade: significant
+- record_id: R00903
+  term: Nutrition knowledge
+  grade: very significant
+- record_id: R00903
+  term: Food consumption
+  grade: significant
+- record_id: R00904
+  term: Fertiliser selection decision making
+  grade: significant
+- record_id: R00904
+  term: Adoption of recommended inorganic fertiliser practices
+  grade: significant
+- record_id: R00904
+  term: Maize yield
+  grade: neutral/mixed results
+- record_id: R00904
+  term: Profits and revenues
+  grade: neutral/mixed results
+- record_id: R00905
+  term: Aggregate crop yield
+  grade: significant
+- record_id: R00906
+  term: Income from forestry
+  grade: significant
+- record_id: R00907
+  term: Wheat yield
+  grade: very significant
+- record_id: R00907
+  term: Income from agriculture
+  grade: very significant
+- record_id: R00909
+  term: Harvest-related crop losses
+  grade: significant
+- record_id: R00909
+  term: Index of crop losses
+  grade: significant
+- record_id: R00909
+  term: Aggregate crop yield
+  grade: no effect
+- record_id: R00909
+  term: Storage-related crop losses
+  grade: significant
+- record_id: R00909
+  term: Sales
+  grade: significant
+- record_id: R00911
+  term: Poverty status
+  grade: significant
+- record_id: R00911
+  term: Income from crop production
+  grade: no information
+- record_id: R00911
+  term: Cotton yield
+  grade: significant
+- record_id: R00912
+  term: Maize yield
+  grade: very significant
+- record_id: R00912
+  term: Wheat yield
+  grade: no effect
+- record_id: R00912
+  term: Maize volume sold
+  grade: significant
+- record_id: R00912
+  term: Wheat volume sold
+  grade: neutral/mixed results
+- record_id: R00913
+  term: Vegetation levels
+  grade: significant
+- record_id: R00914
+  term: Forest coverage
+  grade: neutral/mixed results
+- record_id: R00915
+  term: Income from forestry
+  grade: no effect
+- record_id: R00916
+  term: Boreholes and wells
+  grade: no information
+- record_id: R00918
+  term: Cocoa yield
+  grade: significant
+- record_id: R00918
+  term: Income from crop production
+  grade: very significant
+- record_id: R00918
+  term: Overall household income
+  grade: very significant
+- record_id: R00918
+  term: Agricultural extension service technology use
+  grade: very significant
+- record_id: R00919
+  term: Maize yield
+  grade: no effect
+- record_id: R00919
+  term: Adoption of recommended planting practices
+  grade: very significant
+- record_id: R00920
+  term: Rice yield
+  grade: very significant
+- record_id: R00920
+  term: Overall agricultural expenditure
+  grade: significant
+- record_id: R00921
+  term: Income from non-farm employment
+  grade: no information
+- record_id: R00921
+  term: Aggregate crop yield
+  grade: no effect
+- record_id: R00921
+  term: Household agricultural income index
+  grade: no effect
+- record_id: R00923
+  term: Presence of handwashing station and/or soap
+  grade: very significant
+- record_id: R00923
+  term: Handwashing behaviour
+  grade: very significant
+- record_id: R00923
+  term: Regular cleaning
+  grade: very significant
+- record_id: R00923
+  term: Uptake of latrine or toilet use
+  grade: very significant
+- record_id: R00924
+  term: Bacterial water contamination
+  grade: neutral/mixed results
+- record_id: R00924
+  term: Customer satisfaction
+  grade: neutral/mixed results
+- record_id: R00925
+  term: Vegetation levels
+  grade: significant
+- record_id: R00926
+  term: Air pollution
+  grade: significant
+- record_id: R00926
+  term: Economic growth
+  grade: significant
+- record_id: R00928
+  term: Index of household income
+  grade: significant
+- record_id: R00928
+  term: Air pollution
+  grade: outcome was worsened
+- record_id: R00929
+  term: Area allocated to crops
+  grade: significant
+- record_id: R00929
+  term: Crop diversification
+  grade: outcome was worsened
+- record_id: R00930
+  term: Air pollution
+  grade: neutral/mixed results
+- record_id: R00931
+  term: Deforestation
+  grade: significant
+- record_id: R00931
+  term: Traditional fuel fires and accidents
+  grade: no information
+- record_id: R00932
+  term: Overall environmental performance
+  grade: significant
+- record_id: R00932
+  term: Greenhouse gas emissions
+  grade: neutral/mixed results
+- record_id: R00932
+  term: Sales
+  grade: significant
+- record_id: R00933
+  term: Deforestation
+  grade: neutral/mixed results
+- record_id: R00934
+  term: Air pollution
+  grade: neutral/mixed results
+- record_id: R00935
+  term: Indoor air pollution
+  grade: significant
+- record_id: R00936
+  term: Income from forestry
+  grade: very significant
+- record_id: R00937
+  term: Deforestation
+  grade: no effect
+- record_id: R00938
+  term: Air pollution
+  grade: significant
+- record_id: R00939
+  term: Air pollution
+  grade: very significant
+- record_id: R00940
+  term: Maize yield
+  grade: significant
+- record_id: R00941
+  term: Index of water consumption
+  grade: significant
+- record_id: R00941
+  term: Diarrhoeal disease
+  grade: no effect
+- record_id: R00942
+  term: New latrine or toilet construction
+  grade: significant
+- record_id: R00943
+  term: Air pollution
+  grade: very significant
+- record_id: R00944
+  term: Air pollution
+  grade: significant
+- record_id: R00945
+  term: Stunting in children
+  grade: no effect
+- record_id: R00945
+  term: Wasting in children
+  grade: significant
+- record_id: R00946
+  term: Index of water supply quality
+  grade: significant
+- record_id: R00947
+  term: Air pollution
+  grade: very significant
+- record_id: R00948
+  term: Index environmental protection
+  grade: significant
+- record_id: R00949
+  term: Air pollution
+  grade: significant
+- record_id: R00950
+  term: Adoption of recommended pest management practices
+  grade: neutral/mixed results
+- record_id: R00950
+  term: Chemical exposure from agricultural chemicals
+  grade: neutral/mixed results
+- record_id: R00950
+  term: Hazardous material removal
+  grade: no effect
+- record_id: R00951
+  term: Food security index
+  grade: no effect
+- record_id: R00951
+  term: Income from crop production
+  grade: significant
+- record_id: R00952
+  term: Aggregate crop yield
+  grade: significant
+- record_id: R00953
+  term: Mechanised farming equipment
+  grade: significant
+- record_id: R00953
+  term: Income from non-farm employment
+  grade: significant
+- record_id: R00954
+  term: Adoption of recommended seed selection
+  grade: significant
+- record_id: R00954
+  term: Wheat yield
+  grade: neutral/mixed results
+- record_id: R00954
+  term: Overuse of inorganic fertiliser
+  grade: neutral/mixed results
+- record_id: R00955
+  term: Food production
+  grade: significant
+- record_id: R00955
+  term: Water used for irrigation
+  grade: very significant
+- record_id: R00956
+  term: Overall crop production
+  grade: very significant
+- record_id: R00956
+  term: Income from agriculture
+  grade: significant
+- record_id: R00957
+  term: Health impacts due to energy and extractive activities
+  grade: significant
+- record_id: R00958
+  term: Air pollution
+  grade: significant
+- record_id: R00959
+  term: Biological diversity
+  grade: very significant
+- record_id: R00960
+  term: Air pollution
+  grade: neutral/mixed results
+- record_id: R00961
+  term: Air pollution
+  grade: neutral/mixed results
+- record_id: R00962
+  term: Farmer-based organisations
+  grade: significant
+- record_id: R00962
+  term: Maize yield
+  grade: significant
+- record_id: R00962
+  term: Income from agriculture
+  grade: significant
+- record_id: R00963
+  term: Wildlife encounters
+  grade: significant
+- record_id: R00963
+  term: Forest coverage
+  grade: neutral/mixed results
+- record_id: R00964
+  term: Economic growth
+  grade: significant
+- record_id: R00964
+  term: Air pollution
+  grade: significant
+- record_id: R00965
+  term: Water pollution
+  grade: significant
+- record_id: R00965
+  term: Water pollution due to agricultural activities
+  grade: no effect
+- record_id: R00966
+  term: Rice yield
+  grade: significant
+- record_id: R00966
+  term: Income from crop production
+  grade: significant
+- record_id: R00967
+  term: Energy conservation strategies
+  grade: very significant
+- record_id: R00967
+  term: Household energy consumption
+  grade: very significant
+- record_id: R00968
+  term: Air pollution
+  grade: very significant
+- record_id: R00969
+  term: Air pollution
+  grade: neutral/mixed results
+- record_id: R00970
+  term: Air pollution
+  grade: very significant
+- record_id: R00971
+  term: Export firm behaviour
+  grade: outcome was worsened
+- record_id: R00973
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00974
+  term: Chemical water contamination
+  grade: significant
+- record_id: R00974
+  term: Profits and revenues
+  grade: significant
+- record_id: R00976
+  term: Water pollution
+  grade: significant
+- record_id: R00977
+  term: Access to clean water for low-income regions
+  grade: significant
+- record_id: R00977
+  term: Latrine or toilet access
+  grade: significant
+- record_id: R00977
+  term: Infant mortality
+  grade: significant
+- record_id: R00978
+  term: Forest coverage
+  grade: significant
+- record_id: R00979
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00979
+  term: Gross Domestic Product
+  grade: no effect
+- record_id: R00980
+  term: Time spent fetching water
+  grade: no information
+- record_id: R00980
+  term: Access to water
+  grade: very significant
+- record_id: R00980
+  term: Latrine or toilet access
+  grade: very significant
+- record_id: R00980
+  term: Index of child health
+  grade: no effect
+- record_id: R00980
+  term: Handwashing behaviour
+  grade: very significant
+- record_id: R00980
+  term: Practice safe water storage
+  grade: no effect
+- record_id: R00980
+  term: Overall student attendance
+  grade: no effect
+- record_id: R00980
+  term: Cost of water
+  grade: no effect
+- record_id: R00981
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R00981
+  term: Index of economic indicators
+  grade: neutral/mixed results
+- record_id: R00982
+  term: Investment in property, plant, and equipment
+  grade: significant
+- record_id: R00982
+  term: Air pollution
+  grade: significant
+- record_id: R00983
+  term: Household energy consumption
+  grade: significant
+- record_id: R00984
+  term: Air pollution
+  grade: very significant
+- record_id: R00986
+  term: Index of household poverty
+  grade: neutral/mixed results
+- record_id: R00987
+  term: Solar energy generation
+  grade: very significant
+- record_id: R00988
+  term: Air pollution
+  grade: no effect
+- record_id: R00989
+  term: Total factor productivity
+  grade: significant
+- record_id: R00990
+  term: Quality of life/Life satisfaction
+  grade: significant
+- record_id: R00991
+  term: Air pollution
+  grade: significant
+- record_id: R00992
+  term: Gross Domestic Product
+  grade: outcome was worsened
+- record_id: R00993
+  term: Bacterial water contamination
+  grade: significant
+- record_id: R00994
+  term: Willingness to pay for water
+  grade: outcome was worsened
+- record_id: R00995
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R00995
+  term: Water pollution
+  grade: significant
+- record_id: R00996
+  term: Handwashing behaviour
+  grade: significant
+- record_id: R00996
+  term: Attitudes toward handwashing
+  grade: no effect
+- record_id: R00997
+  term: Air pollution
+  grade: significant
+- record_id: R00998
+  term: Air pollution
+  grade: very significant
+- record_id: R00999
+  term: Water supply capacity
+  grade: no effect
+- record_id: R00999
+  term: Index treatment of water
+  grade: no effect
+- record_id: R00999
+  term: Access to water
+  grade: no effect
+- record_id: R01000
+  term: Parents and family - health
+  grade: no information
+- record_id: R01000
+  term: Early childhood development
+  grade: significant
+- record_id: R01000
+  term: Index of student cognitive development
+  grade: no information
+- record_id: R01000
+  term: Mental health
+  grade: no information
+- record_id: R01001
+  term: Crop diversification
+  grade: significant
+- record_id: R01001
+  term: Food security index
+  grade: significant
+- record_id: R01001
+  term: Wheat yield
+  grade: significant
+- record_id: R01002
+  term: Household expenditure on food
+  grade: no effect
+- record_id: R01002
+  term: Food consumption
+  grade: neutral/mixed results
+- record_id: R01002
+  term: Protein supply
+  grade: neutral/mixed results
+- record_id: R01002
+  term: Egg producing livestock
+  grade: neutral/mixed results
+- record_id: R01002
+  term: Egg quantity
+  grade: neutral/mixed results
+- record_id: R01002
+  term: Weight
+  grade: neutral/mixed results
+- record_id: R01002
+  term: Height
+  grade: neutral/mixed results
+- record_id: R01002
+  term: Diarrhoeal disease
+  grade: no information
+- record_id: R01003
+  term: Adoption of recommended planting practices
+  grade: significant
+- record_id: R01003
+  term: Adoption of recommended water/irrigation practices
+  grade: neutral/mixed results
+- record_id: R01003
+  term: Rice yield
+  grade: neutral/mixed results
+- record_id: R01004
+  term: Seed selection decision making
+  grade: no effect
+- record_id: R01004
+  term: Index of agricultural knowledge
+  grade: significant
+- record_id: R01005
+  term: Food safety - Measures of toxins in food
+  grade: very significant
+- record_id: R01006
+  term: Deforestation
+  grade: neutral/mixed results
+- record_id: R01006
+  term: Forest coverage
+  grade: neutral/mixed results
+- record_id: R01007
+  term: Adoption of recommended seed selection
+  grade: very significant
+- record_id: R01007
+  term: Income from crop production
+  grade: very significant
+- record_id: R01008
+  term: Maize yield
+  grade: significant
+- record_id: R01009
+  term: Willingness to pay for energy
+  grade: significant
+- record_id: R01010
+  term: Milk quantity
+  grade: neutral/mixed results
+- record_id: R01010
+  term: Food safety - Measures of toxins in food
+  grade: very significant
+- record_id: R01010
+  term: Self-perception
+  grade: significant
+- record_id: R01011
+  term: Household energy consumption
+  grade: neutral/mixed results
+- record_id: R01012
+  term: Open defecation
+  grade: significant
+- record_id: R01012
+  term: Latrine or toilet ownership
+  grade: neutral/mixed results
+- record_id: R01012
+  term: Regular latrine or toilet use
+  grade: no information
+- record_id: R01013
+  term: Rice yield
+  grade: significant
+- record_id: R01014
+  term: Diarrhoeal disease
+  grade: outcome was worsened
+- record_id: R01014
+  term: Typhoid
+  grade: outcome was worsened
+- record_id: R01014
+  term: Acute respiratory infections (ARIs)
+  grade: outcome was worsened
+- record_id: R01014
+  term: Measles incidence
+  grade: outcome was worsened
+- record_id: R01015
+  term: Adoption of recommended inorganic fertiliser practices
+  grade: significant
+- record_id: R01015
+  term: Adoption of recommended seed selection
+  grade: no information
+- record_id: R01015
+  term: Maize yield
+  grade: very significant
+- record_id: R01015
+  term: Overall crop production
+  grade: very significant
+- record_id: R01016
+  term: Water use in agriculture
+  grade: outcome was worsened
+- record_id: R01019
+  term: Biological diversity
+  grade: very significant
+- record_id: R01022
+  term: Income from agriculture
+  grade: very significant
+- record_id: R01022
+  term: Overall crop production
+  grade: very significant
+- record_id: R01022
+  term: Aggregate crop yield
+  grade: very significant
+- record_id: R01022
+  term: Other outcome
+  grade: very significant
+- record_id: R01024
+  term: Forest coverage
+  grade: outcome was worsened
+- record_id: R01025
+  term: Forest coverage
+  grade: significant
+- record_id: R01026
+  term: Wheat yield
+  grade: very significant
+- record_id: R01026
+  term: Rice yield
+  grade: very significant
+- record_id: R01026
+  term: Cotton yield
+  grade: significant
+- record_id: R01027
+  term: Aggregate crop yield
+  grade: very significant
+- record_id: R01027
+  term: Labour demand
+  grade: significant
+- record_id: R01027
+  term: Labour productivity
+  grade: significant
+- record_id: R01027
+  term: Other outcome
+  grade: significant
+- record_id: R01028
+  term: Income from forestry
+  grade: very significant
+- record_id: R01029
+  term: Forest coverage
+  grade: neutral/mixed results
+- record_id: R01029
+  term: Household livelihood
+  grade: significant
+- record_id: R01030
+  term: Forest coverage
+  grade: very significant
+- record_id: R01031
+  term: Adoption of recommended harvesting practices
+  grade: significant
+- record_id: R01031
+  term: Household livelihood
+  grade: no information
+- record_id: R01032
+  term: Deforestation
+  grade: neutral/mixed results
+- record_id: R01032
+  term: Land use allocation decision making
+  grade: neutral/mixed results
+- record_id: R01034
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R01034
+  term: Deforestation
+  grade: neutral/mixed results
+- record_id: R01035
+  term: Forest coverage
+  grade: significant
+- record_id: R01035
+  term: Deforestation
+  grade: significant
+- record_id: R01037
+  term: Income from forestry
+  grade: neutral/mixed results
+- record_id: R01038
+  term: Forest coverage
+  grade: neutral/mixed results
+- record_id: R01038
+  term: Overall crop production
+  grade: significant
+- record_id: R01039
+  term: Aggregate crop yield
+  grade: very significant
+- record_id: R01039
+  term: Income from agriculture
+  grade: very significant
+- record_id: R01041
+  term: Deforestation
+  grade: neutral/mixed results
+- record_id: R01042
+  term: Overall household income
+  grade: significant
+- record_id: R01042
+  term: Income from forestry
+  grade: very significant
+- record_id: R01042
+  term: Income from non-farm employment
+  grade: no effect
+- record_id: R01043
+  term: Adoption of recommended organic fertiliser practices
+  grade: significant
+- record_id: R01043
+  term: Overuse of herbicides
+  grade: significant
+- record_id: R01044
+  term: Index of soil quality
+  grade: neutral/mixed results
+- record_id: R01045
+  term: Biological diversity
+  grade: very significant
+- record_id: R01046
+  term: Forest coverage
+  grade: very significant
+- record_id: R01049
+  term: Household energy consumption
+  grade: significant
+- record_id: R01050
+  term: Household energy consumption
+  grade: very significant
+- record_id: R01051
+  term: Household energy consumption
+  grade: significant
+- record_id: R01051
+  term: Index of water consumption
+  grade: significant
+- record_id: R01052
+  term: Incidence of violence
+  grade: significant
+- record_id: R01052
+  term: Indoor air pollution
+  grade: no information
+- record_id: R01053
+  term: Household energy consumption
+  grade: neutral/mixed results
+- record_id: R01053
+  term: Household expenditure on energy
+  grade: significant
+- record_id: R01054
+  term: Lighting and heating energy use for economic activities
+  grade: no information
+- record_id: R01055
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R01056
+  term: Non-technical losses - energy
+  grade: neutral/mixed results
+- record_id: R01056
+  term: Technical losses - energy
+  grade: neutral/mixed results
+- record_id: R01056
+  term: Reliability of electricity
+  grade: very significant
+- record_id: R01056
+  term: Household energy consumption
+  grade: outcome was worsened
+- record_id: R01057
+  term: Indoor air pollution
+  grade: no effect
+- record_id: R01058
+  term: Air pollution
+  grade: significant
+- record_id: R01060
+  term: Willingness to pay for energy
+  grade: significant
+- record_id: R01060
+  term: Index of household energy consumption
+  grade: significant
+- record_id: R01060
+  term: Health knowledge
+  grade: significant
+- record_id: R01062
+  term: Household energy consumption
+  grade: significant
+- record_id: R01062
+  term: Indoor air pollution
+  grade: no effect
+- record_id: R01063
+  term: Household energy consumption
+  grade: very significant
+- record_id: R01064
+  term: Household energy source
+  grade: significant
+- record_id: R01065
+  term: Household energy consumption
+  grade: very significant
+- record_id: R01066
+  term: Solar energy generation
+  grade: significant
+- record_id: R01067
+  term: Index of renewable energy promotion
+  grade: significant
+- record_id: R01068
+  term: Household expenditure on energy
+  grade: significant
+- record_id: R01068
+  term: Household energy consumption
+  grade: significant
+- record_id: R01068
+  term: Index of household energy consumption
+  grade: significant
+- record_id: R01068
+  term: Quality of life/Life satisfaction
+  grade: significant
+- record_id: R01068
+  term: Customer satisfaction
+  grade: significant
+- record_id: R01069
+  term: Indoor air pollution
+  grade: significant
+- record_id: R01069
+  term: Low birth weight
+  grade: no effect
+- record_id: R01069
+  term: Neonate anthropometry
+  grade: no effect
+- record_id: R01070
+  term: Maize yield
+  grade: significant
+- record_id: R01070
+  term: Overall crop production
+  grade: significant
+- record_id: R01071
+  term: Knowledge of safe waste disposal
+  grade: significant
+- record_id: R01071
+  term: Safe disposal of waste
+  grade: very significant
+- record_id: R01072
+  term: Maize yield
+  grade: significant
+- record_id: R01072
+  term: Income from agriculture
+  grade: significant
+- record_id: R01073
+  term: Income from agriculture
+  grade: significant
+- record_id: R01073
+  term: Crop irrigation equipment
+  grade: significant
+- record_id: R01073
+  term: Profits and revenues
+  grade: significant
+- record_id: R01073
+  term: Overall crop production
+  grade: significant
+- record_id: R01073
+  term: Empowerment
+  grade: significant
+- record_id: R01074
+  term: Air pollution
+  grade: significant
+- record_id: R01075
+  term: Water pollution
+  grade: significant
+- record_id: R01076
+  term: Bank accounts
+  grade: significant
+- record_id: R01078
+  term: Index of farmers' adoption of recommended practices
+  grade: neutral/mixed results
+- record_id: R01078
+  term: Dietary diversity
+  grade: significant
+- record_id: R01078
+  term: Empowerment
+  grade: significant
+- record_id: R01079
+  term: Maize yield
+  grade: significant
+- record_id: R01080
+  term: Food security index
+  grade: significant
+- record_id: R01080
+  term: Food consumption
+  grade: significant
+- record_id: R01080
+  term: Access to credit
+  grade: no information
+- record_id: R01081
+  term: Other anthropometric measures
+  grade: significant
+- record_id: R01081
+  term: Latrine or toilet access
+  grade: no effect
+- record_id: R01082
+  term: Crop diversification
+  grade: outcome was worsened
+- record_id: R01083
+  term: Rice yield
+  grade: significant
+- record_id: R01083
+  term: Income from crop production
+  grade: significant
+- record_id: R01084
+  term: Deforestation
+  grade: significant
+- record_id: R01085
+  term: Aggregate crop yield
+  grade: significant
+- record_id: R01085
+  term: Area allocated to crops
+  grade: significant
+- record_id: R01085
+  term: Overall crop production
+  grade: significant
+- record_id: R01086
+  term: Income from forestry
+  grade: significant
+- record_id: R01086
+  term: Labour costs
+  grade: significant
+- record_id: R01087
+  term: Index environmental protection
+  grade: significant
+- record_id: R01088
+  term: Income from agriculture
+  grade: significant
+- record_id: R01088
+  term: Aggregate crop yield
+  grade: outcome was worsened
+- record_id: R01088
+  term: Overall agricultural expenditure
+  grade: significant
+- record_id: R01089
+  term: Income from livestock
+  grade: significant
+- record_id: R01089
+  term: Milk quantity
+  grade: significant
+- record_id: R01090
+  term: Income from crop production
+  grade: no effect
+- record_id: R01092
+  term: Crop insurance
+  grade: outcome was worsened
+- record_id: R01092
+  term: Pest-related crop losses
+  grade: outcome was worsened
+- record_id: R01093
+  term: Income from agriculture
+  grade: significant
+- record_id: R01093
+  term: Maize yield
+  grade: significant
+- record_id: R01093
+  term: Rice yield
+  grade: neutral/mixed results
+- record_id: R01094
+  term: Income from agriculture
+  grade: neutral/mixed results
+- record_id: R01094
+  term: Overall household income
+  grade: neutral/mixed results
+- record_id: R01095
+  term: Agricultural extension service technology use
+  grade: neutral/mixed results
+- record_id: R01097
+  term: Profits and revenues
+  grade: significant
+- record_id: R01097
+  term: Aggregate crop yield
+  grade: significant
+- record_id: R01098
+  term: Chemical water contamination
+  grade: very significant
+- record_id: R01099
+  term: Index of energy and efficiency
+  grade: very significant
+- record_id: R01099
+  term: Aggregate crop yield
+  grade: significant
+- record_id: R01099
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R01099
+  term: Water use in agriculture
+  grade: very significant
+- record_id: R01099
+  term: Income from crop production
+  grade: very significant
+- record_id: R01100
+  term: Deforestation
+  grade: no effect
+- record_id: R01100
+  term: Food production
+  grade: significant
+- record_id: R01101
+  term: Irrigated land for agricultural production
+  grade: very significant
+- record_id: R01101
+  term: Income from crop production
+  grade: very significant
+- record_id: R01101
+  term: Household asset inventory
+  grade: significant
+- record_id: R01101
+  term: Overall crop production
+  grade: very significant
+- record_id: R01103
+  term: Stunting in children
+  grade: neutral/mixed results
+- record_id: R01103
+  term: Dietary diversity - maternal care
+  grade: significant
+- record_id: R01103
+  term: Food consumption
+  grade: significant
+- record_id: R01103
+  term: Food security index
+  grade: very significant
+- record_id: R01103
+  term: Index of maternal knowledge and behaviour
+  grade: significant
+- record_id: R01103
+  term: Sexual and intimate partner violence
+  grade: significant
+- record_id: R01103
+  term: Low birth weight
+  grade: very significant
+- record_id: R01103
+  term: Antenatal care
+  grade: significant
+- record_id: R01104
+  term: Index of conflict/collateral damage
+  grade: significant
+- record_id: R01105
+  term: Air pollution
+  grade: neutral/mixed results
+- record_id: R01105
+  term: Total factor productivity
+  grade: outcome was worsened
+- record_id: R01106
+  term: Forest coverage
+  grade: significant
+- record_id: R01108
+  term: Environmentally conscious equipment
+  grade: significant
+- record_id: R01108
+  term: Air pollution
+  grade: significant
+- record_id: R01109
+  term: Index of energy and efficiency
+  grade: significant
+- record_id: R01110
+  term: Gross Domestic Product
+  grade: very significant
+- record_id: R01110
+  term: New road construction
+  grade: no effect
+- record_id: R01110
+  term: Education funding
+  grade: no effect
+- record_id: R01110
+  term: Index of employment
+  grade: outcome was worsened
+- record_id: R01110
+  term: Pension
+  grade: no effect
+- record_id: R01111
+  term: Air pollution
+  grade: neutral/mixed results
+- record_id: R01112
+  term: Mobile phones
+  grade: very significant
+- record_id: R01112
+  term: Index of employment
+  grade: significant
+- record_id: R01112
+  term: Sales
+  grade: significant
+- record_id: R01112
+  term: Index of crop losses
+  grade: significant
+- record_id: R01112
+  term: Output prices
+  grade: significant
+- record_id: R01113
+  term: Maize yield
+  grade: neutral/mixed results
+- record_id: R01113
+  term: Rice yield
+  grade: neutral/mixed results
+- record_id: R01114
+  term: Aggregate crop yield
+  grade: no effect
+- record_id: R01114
+  term: Credit take-up
+  grade: no effect
+- record_id: R01114
+  term: Overall household income
+  grade: no effect
+- record_id: R01115
+  term: Adoption of recommended pest management practices
+  grade: significant
+- record_id: R01115
+  term: Overall crop production
+  grade: significant
+- record_id: R01115
+  term: Aggregate crop yield
+  grade: significant
+- record_id: R01116
+  term: Maize yield
+  grade: very significant
+- record_id: R01117
+  term: Health infrastructure
+  grade: outcome was worsened
+- record_id: R01117
+  term: Access to healthcare
+  grade: outcome was worsened
+- record_id: R01117
+  term: Sanitation
+  grade: outcome was worsened
+- record_id: R01117
+  term: Access to water
+  grade: no information
+- record_id: R01118
+  term: Air pollution
+  grade: very significant
+- record_id: R01119
+  term: Index of water supply quality
+  grade: very significant
+- record_id: R01120
+  term: Air pollution
+  grade: significant
+- record_id: R01120
+  term: Water pollution
+  grade: neutral/mixed results
+- record_id: R01121
+  term: Agricultural extension service received
+  grade: significant
+- record_id: R01121
+  term: Access to water
+  grade: no effect
+- record_id: R01122
+  term: Air pollution
+  grade: neutral/mixed results
+- record_id: R01123
+  term: Index of water supply quality
+  grade: significant
+- record_id: R01124
+  term: Overall environmental performance
+  grade: neutral/mixed results
+- record_id: R01124
+  term: Air pollution
+  grade: neutral/mixed results
+- record_id: R01125
+  term: Overall household income
+  grade: significant
+- record_id: R01125
+  term: Income from livestock
+  grade: significant
+- record_id: R01127
+  term: Air pollution
+  grade: significant
+- record_id: R01127
+  term: Household energy consumption
+  grade: significant
+- record_id: R01128
+  term: Household energy consumption
+  grade: neutral/mixed results
+- record_id: R01129
+  term: Forest coverage
+  grade: neutral/mixed results
+- record_id: R01129
+  term: Greenhouse gas emissions
+  grade: neutral/mixed results
+- record_id: R01129
+  term: Deforestation
+  grade: neutral/mixed results
+- record_id: R01131
+  term: Electrification
+  grade: no effect
+- record_id: R01131
+  term: Access to an electric generator
+  grade: no effect
+- record_id: R01132
+  term: Overall environmental performance
+  grade: significant
+- record_id: R01132
+  term: Air pollution
+  grade: significant
+- record_id: R01132
+  term: Water pollution
+  grade: significant
+- record_id: R01133
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R01133
+  term: Gross Domestic Product
+  grade: outcome was worsened
+- record_id: R01134
+  term: Willingness to pay for water
+  grade: neutral/mixed results
+- record_id: R01135
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R01136
+  term: Investment in R&D
+  grade: no effect
+- record_id: R01137
+  term: Deforestation
+  grade: neutral/mixed results
+- record_id: R01138
+  term: Air pollution
+  grade: very significant
+- record_id: R01139
+  term: Diarrhoeal disease
+  grade: no information
+- record_id: R01139
+  term: Index of early childhood development
+  grade: no information
+- record_id: R01139
+  term: Acute respiratory infections (ARIs)
+  grade: no information
+- record_id: R01139
+  term: Indoor air pollution
+  grade: no information
+- record_id: R01139
+  term: Bacterial water contamination
+  grade: no effect
+- record_id: R01140
+  term: Greenhouse gas emissions
+  grade: neutral/mixed results
+- record_id: R01141
+  term: Greenhouse gas emissions
+  grade: neutral/mixed results
+- record_id: R01142
+  term: Income from crop production
+  grade: very significant
+- record_id: R01143
+  term: Air pollution
+  grade: significant
+- record_id: R01144
+  term: Household energy consumption
+  grade: neutral/mixed results
+- record_id: R01145
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R01145
+  term: Economic growth
+  grade: significant
+- record_id: R01146
+  term: Aggregate crop yield
+  grade: significant
+- record_id: R01148
+  term: Diarrhoeal disease
+  grade: no information
+- record_id: R01148
+  term: Handwashing behaviour
+  grade: very significant
+- record_id: R01149
+  term: Air pollution
+  grade: very significant
+- record_id: R01150
+  term: Water treatment - filtration
+  grade: very significant
+- record_id: R01150
+  term: Bacterial water contamination
+  grade: very significant
+- record_id: R01150
+  term: Diarrhoeal disease
+  grade: no effect
+- record_id: R01151
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R01152
+  term: Index of parental involvement in child's education
+  grade: significant
+- record_id: R01152
+  term: Other child health
+  grade: no effect
+- record_id: R01153
+  term: Air pollution
+  grade: very significant
+- record_id: R01154
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R01156
+  term: Greenhouse gas emissions
+  grade: very significant
+- record_id: R01157
+  term: Index of energy and efficiency
+  grade: neutral/mixed results
+- record_id: R01157
+  term: Investment in R&D
+  grade: no information
+- record_id: R01158
+  term: Index of economic indicators
+  grade: significant
+- record_id: R01159
+  term: Investment in R&D
+  grade: significant
+- record_id: R01159
+  term: Product quality
+  grade: neutral/mixed results
+- record_id: R01160
+  term: Non-technical losses - energy
+  grade: no effect
+- record_id: R01160
+  term: Household energy consumption
+  grade: very significant
+- record_id: R01160
+  term: Index of access to energy
+  grade: very significant
+- record_id: R01161
+  term: Agricultural extension service received
+  grade: very significant
+- record_id: R01161
+  term: Index of water supply quality
+  grade: no effect
+- record_id: R01162
+  term: Maize yield
+  grade: very significant
+- record_id: R01162
+  term: Total factor productivity
+  grade: significant
+- record_id: R01163
+  term: Incidence of violence
+  grade: neutral/mixed results
+- record_id: R01163
+  term: Area allocated to crops
+  grade: neutral/mixed results
+- record_id: R01164
+  term: Traditional fuel consumption
+  grade: neutral/mixed results
+- record_id: R01164
+  term: Forest coverage
+  grade: neutral/mixed results
+- record_id: R01165
+  term: Labour productivity
+  grade: outcome was worsened
+- record_id: R01165
+  term: Total factor productivity
+  grade: outcome was worsened
+- record_id: R01165
+  term: Aggregate crop yield
+  grade: outcome was worsened
+- record_id: R01166
+  term: Deforestation
+  grade: very significant
+- record_id: R01167
+  term: Deforestation
+  grade: no effect
+- record_id: R01168
+  term: Index of household poverty
+  grade: significant
+- record_id: R01168
+  term: Income from remittances
+  grade: no information
+- record_id: R01168
+  term: Index of housing quality
+  grade: significant
+- record_id: R01169
+  term: Irrigated land for agricultural production
+  grade: no effect
+- record_id: R01171
+  term: Air pollution
+  grade: neutral/mixed results
+- record_id: R01173
+  term: Attitudes toward recycling and reuse
+  grade: neutral/mixed results
+- record_id: R01173
+  term: Safe disposal of waste
+  grade: very significant
+- record_id: R01174
+  term: Safe food storage
+  grade: very significant
+- record_id: R01174
+  term: Handwashing behaviour
+  grade: very significant
+- record_id: R01174
+  term: Environmental hygiene
+  grade: very significant
+- record_id: R01174
+  term: Dietary diversity - maternal care
+  grade: neutral/mixed results
+- record_id: R01174
+  term: Dietary diversity
+  grade: significant
+- record_id: R01174
+  term: Nutrition
+  grade: significant
+- record_id: R01175
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R01177
+  term: Return on assets
+  grade: outcome was worsened
+- record_id: R01177
+  term: Total factor productivity
+  grade: neutral/mixed results
+- record_id: R01178
+  term: Water treatment - chlorine
+  grade: significant
+- record_id: R01179
+  term: Water pollution
+  grade: very significant
+- record_id: R01179
+  term: Workers per firm
+  grade: no effect
+- record_id: R01179
+  term: Valuation
+  grade: significant
+- record_id: R01180
+  term: Aggregate crop yield
+  grade: neutral/mixed results
+- record_id: R01180
+  term: Area allocated to crops
+  grade: neutral/mixed results
+- record_id: R01181
+  term: Index of household energy consumption
+  grade: significant
+- record_id: R01183
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R01184
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R01184
+  term: Index of employment
+  grade: significant
+- record_id: R01186
+  term: Wind energy generation
+  grade: very significant
+- record_id: R01186
+  term: Solar energy generation
+  grade: very significant
+- record_id: R01187
+  term: Willingness to pay for water
+  grade: significant
+- record_id: R01187
+  term: Water treatment - chlorine
+  grade: significant
+- record_id: R01188
+  term: Deforestation
+  grade: very significant
+- record_id: R01189
+  term: Index of access to energy
+  grade: significant
+- record_id: R01189
+  term: Electrification coverage
+  grade: significant
+- record_id: R01190
+  term: Air pollution
+  grade: significant
+- record_id: R01191
+  term: Nutrition knowledge
+  grade: significant
+- record_id: R01192
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R01193
+  term: Overall environmental performance
+  grade: very significant
+- record_id: R01193
+  term: Environmental management index
+  grade: very significant
+- record_id: R01194
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R01195
+  term: Economic growth
+  grade: significant
+- record_id: R01195
+  term: Air pollution
+  grade: no effect
+- record_id: R01196
+  term: Greenhouse gas emissions
+  grade: significant
+- record_id: R01197
+  term: Wheat yield
+  grade: outcome was worsened
+- record_id: R01197
+  term: Income from crop production
+  grade: outcome was worsened
+- record_id: R01198
+  term: Poverty status
+  grade: no effect
+- record_id: R01198
+  term: Under-5 mortality
+  grade: no effect
+- record_id: R01198
+  term: Infant mortality
+  grade: no effect
+- record_id: R01199
+  term: Diarrhoeal disease
+  grade: no effect
+- record_id: R01200
+  term: Air pollution
+  grade: very significant
+- record_id: R01201
+  term: Air pollution
+  grade: neutral/mixed results
+- record_id: R01202
+  term: Maize yield
+  grade: very significant
+- record_id: R01203
+  term: Index of intra-household bargaining power
+  grade: neutral/mixed results
+- record_id: R01203
+  term: Paid labour in agriculture
+  grade: neutral/mixed results
+- record_id: R01203
+  term: Smallholder household labour in agriculture
+  grade: neutral/mixed results
+- record_id: R01205
+  term: Deforestation
+  grade: very significant
+- record_id: R01205
+  term: Credit take-up
+  grade: significant
+- record_id: R01206
+  term: Maize yield
+  grade: very significant
+- record_id: R01206
+  term: Index of household poverty
+  grade: significant
+- record_id: R01207
+  term: Deforestation
+  grade: neutral/mixed results
+- record_id: R01208
+  term: Index of farmers' adoption of recommended practices
+  grade: no effect
+- record_id: R01208
+  term: Overall crop production
+  grade: no effect
+- record_id: R01208
+  term: Area allocated to crops
+  grade: no effect
+- record_id: R01208
+  term: Overall household income
+  grade: no effect
+- record_id: R01208
+  term: Income from agriculture
+  grade: no effect
+- record_id: R01208
+  term: Poverty status
+  grade: no effect
+- record_id: R01209
+  term: Rice prices
+  grade: significant
+- record_id: R01209
+  term: Income from crop production
+  grade: significant
+- record_id: R01210
+  term: Income from crop production
+  grade: significant
+- record_id: R01210
+  term: Cocoa yield
+  grade: significant
+- record_id: R01211
+  term: Water pollution
+  grade: no information
+- record_id: R01213
+  term: Income from forestry
+  grade: neutral/mixed results
+- record_id: R01213
+  term: Income inequality
+  grade: outcome was worsened
+- record_id: R01214
+  term: Aggregate crop yield
+  grade: no effect
+- record_id: R01216
+  term: Maize yield
+  grade: significant
+- record_id: R01216
+  term: Maize prices
+  grade: significant
+- record_id: R01217
+  term: Paid labour in agriculture
+  grade: significant
+- record_id: R01217
+  term: Livestock/dairy production/management time use
+  grade: significant
+- record_id: R01218
+  term: Deforestation
+  grade: very significant
+- record_id: R01219
+  term: Air pollution
+  grade: significant
+- record_id: R01220
+  term: Deforestation
+  grade: significant
+- record_id: R01220
+  term: Maize yield
+  grade: significant
+- record_id: R01221
+  term: Water used for irrigation
+  grade: significant
+- record_id: R01221
+  term: Rice yield
+  grade: significant
+- record_id: R01222
+  term: Overall household income
+  grade: significant
+- record_id: R01222
+  term: Maize yield
+  grade: significant
+- record_id: R01222
+  term: Index of household poverty
+  grade: significant
+- record_id: R01223
+  term: Open defecation
+  grade: neutral/mixed results
+- record_id: R01224
+  term: Diarrhoeal disease
+  grade: very significant
+- record_id: R01224
+  term: Stunting in children
+  grade: very significant
+- record_id: R01225
+  term: Water used for irrigation
+  grade: neutral/mixed results
+- record_id: R01225
+  term: Boreholes and wells
+  grade: no effect
+- record_id: R01225
+  term: Cost of water
+  grade: significant
+- record_id: R01226
+  term: Agricultural extension service delivery
+  grade: significant
+- record_id: R01226
+  term: School facilities
+  grade: neutral/mixed results
+- record_id: R01226
+  term: Index of access to water
+  grade: neutral/mixed results
+- record_id: R01227
+  term: Income from crop production
+  grade: significant
+- record_id: R01228
+  term: Income from agriculture
+  grade: neutral/mixed results
+- record_id: R01228
+  term: Overall household income
+  grade: neutral/mixed results
+- record_id: R01229
+  term: Adoption of recommended seed selection
+  grade: significant
+- record_id: R01230
+  term: Sales
+  grade: significant
+- record_id: R01230
+  term: Income from forestry
+  grade: significant
+- record_id: R01230
+  term: Milk quantity
+  grade: significant
+- record_id: R01230
+  term: Index of household wealth or assets
+  grade: significant
+- record_id: R01231
+  term: Overall crop production
+  grade: significant
+- record_id: R01231
+  term: Maize yield
+  grade: neutral/mixed results
+- record_id: R01231
+  term: Knowledge of recommended pest management practices
+  grade: significant
+- record_id: R01232
+  term: Maize yield
+  grade: significant
+- record_id: R01232
+  term: Seed prices
+  grade: no information
+- record_id: R01232
+  term: Adoption of recommended inorganic fertiliser practices
+  grade: significant
+- record_id: R01233
+  term: Adoption of recommended inorganic fertiliser practices
+  grade: neutral/mixed results
+- record_id: R01233
+  term: Aggregate crop yield
+  grade: no effect
+- record_id: R01233
+  term: Sales
+  grade: no effect
+- record_id: R01233
+  term: Income from agriculture
+  grade: no effect
+- record_id: R01233
+  term: Index of household income
+  grade: no effect
+- record_id: R01233
+  term: Income from crop production
+  grade: no effect
+- record_id: R01233
+  term: Income from livestock
+  grade: no effect
+- record_id: R01234
+  term: Maize yield
+  grade: significant
+- record_id: R01235
+  term: Food insecurity prevalence
+  grade: very significant
+- record_id: R01236
+  term: Deforestation
+  grade: significant
+- record_id: R01236
+  term: Forest coverage
+  grade: significant
+- record_id: R01238
+  term: Air pollution
+  grade: significant
+- record_id: R01239
+  term: Typical water consumption
+  grade: significant
+- record_id: R01239
+  term: Water use in agriculture
+  grade: significant
+- record_id: R01240
+  term: Biological diversity
+  grade: very significant
+- record_id: R01242
+  term: Income from forestry
+  grade: significant
+- record_id: R01242
+  term: Index of livestock holdings
+  grade: outcome was worsened
+- record_id: R01242
+  term: Household expenditure on education
+  grade: significant
+- record_id: R01243
+  term: Boreholes and wells
+  grade: significant
+- record_id: R01243
+  term: Cost of water
+  grade: outcome was worsened
+- record_id: R01244
+  term: Household energy consumption
+  grade: significant
+- record_id: R01245
+  term: Household energy consumption
+  grade: very significant
+- record_id: R01247
+  term: Indoor air pollution
+  grade: significant
+- record_id: R01248
+  term: Incidence of violence
+  grade: significant
+- record_id: R01265
+  term: Air pollution
+  grade: no information
+- record_id: R01266
+  term: Aggregate crop yield
+  grade: significant
+- record_id: R01266
+  term: Profits and revenues
+  grade: significant
+- record_id: R01266
+  term: Index of farmers' adoption of recommended practices
+  grade: significant
+- record_id: R01266
+  term: Eco-certifications
+  grade: significant
+- record_id: R01267
+  term: Forest coverage
+  grade: no information
+- record_id: R01269
+  term: Cocoa prices
+  grade: significant
+- record_id: R01269
+  term: Agricultural extension service received
+  grade: significant
+- record_id: R01269
+  term: Index of ecosystem management
+  grade: neutral/mixed results
+- record_id: R01270
+  term: Cost of water
+  grade: no effect
+- record_id: R01270
+  term: Management practices and skills
+  grade: no effect
+- record_id: R01271
+  term: Deforestation
+  grade: significant
+- record_id: R01271
+  term: Index of household poverty
+  grade: neutral/mixed results
+- record_id: R01272
+  term: Forest coverage
+  grade: neutral/mixed results
+- record_id: R01272
+  term: Deforestation
+  grade: neutral/mixed results
+- record_id: R01272
+  term: Household livelihood
+  grade: neutral/mixed results
+- record_id: R01274
+  term: Forest coverage
+  grade: outcome was worsened
+- record_id: R01275
+  term: Traditional fuel consumption
+  grade: significant
+- record_id: R01276
+  term: Area allocated to crops
+  grade: significant
+- record_id: R01276
+  term: Crop diversification
+  grade: significant
+- record_id: R01278
+  term: Overall household income
+  grade: significant
+- record_id: R01278
+  term: Individual economic well-being
+  grade: significant
+- record_id: R01279
+  term: Air pollution
+  grade: significant
+- record_id: R01283
+  term: Air pollution
+  grade: significant
+- record_id: R01284
+  term: Light/lumen hours per day
+  grade: very significant
+- record_id: R01284
+  term: Household expenditure on energy
+  grade: very significant
+- record_id: R01284
+  term: Air pollution
+  grade: significant
+- record_id: R01285
+  term: Air pollution
+  grade: significant
+- record_id: R01288
+  term: Wind energy generation
+  grade: significant
+- record_id: R01289
+  term: Air pollution
+  grade: significant
+- record_id: R01290
+  term: Index of household wealth or assets
+  grade: significant
+- record_id: R01290
+  term: Electrification coverage
+  grade: significant
+- record_id: R01290
+  term: Access to healthcare
+  grade: significant
+- record_id: R01291
+  term: Electrification
+  grade: significant
+- record_id: R01291
+  term: Overall household expenditure
+  grade: neutral/mixed results
+- record_id: R01292
+  term: Index of water consumption
+  grade: significant
+- record_id: R01292
+  term: Overall household income
+  grade: very significant
+- record_id: R01295
+  term: Air pollution
+  grade: significant
+- record_id: R01297
+  term: Household energy consumption
+  grade: no information
+- record_id: R01298
+  term: Indoor air pollution
+  grade: significant
+- record_id: R01299
+  term: Employment status
+  grade: significant
+- record_id: R01299
+  term: Employment hours
+  grade: significant
+- record_id: R01299
+  term: Forest coverage
+  grade: outcome was worsened
+- record_id: R01300
+  term: Overall household expenditure
+  grade: very significant
+- record_id: R01300
+  term: Profits and revenues
+  grade: very significant
+- record_id: R01300
+  term: Knowledge of food safety
+  grade: significant
+- record_id: R01301
+  term: Income from crop production
+  grade: significant
+- record_id: R01301
+  term: Maize prices
+  grade: no effect
+- record_id: R01301
+  term: Maize yield
+  grade: no effect
+- record_id: R01301
+  term: Overall household income
+  grade: significant
+- record_id: R01301
+  term: Index of household income
+  grade: significant
+- record_id: R01301
+  term: Income from livestock
+  grade: no effect
+- record_id: R01301
+  term: Paid labour in agriculture
+  grade: significant
+- record_id: R01301
+  term: Seasonal labour in agriculture
+  grade: no effect
+- record_id: R01301
+  term: Maize value sold
+  grade: no effect
+- record_id: R01303
+  term: Labour force participation
+  grade: outcome was worsened
+- record_id: R01304
+  term: Profits and revenues
+  grade: significant
+- record_id: R01307
+  term: Food safety - Measures of toxins in food
+  grade: significant
+- record_id: R01308
+  term: Income from agriculture
+  grade: very significant
+- record_id: R01308
+  term: Aggregate crop yield
+  grade: very significant
+- record_id: R01309
+  term: Index of household income
+  grade: no effect
+- record_id: R01309
+  term: Maize yield
+  grade: significant
+- record_id: R01310
+  term: Export activity
+  grade: significant
+- record_id: R01310
+  term: Gross Domestic Product
+  grade: significant
+- record_id: R01310
+  term: Area allocated to crops
+  grade: outcome was worsened
+- record_id: R01310
+  term: Income from agriculture
+  grade: outcome was worsened
+- record_id: R01311
+  term: Stunting in children
+  grade: no effect
+- record_id: R01311
+  term: Meal frequency
+  grade: very significant
+- record_id: R01311
+  term: Domestic food expenditure
+  grade: very significant
+- record_id: R01312
+  term: Index of household wealth or assets
+  grade: significant
+- record_id: R01312
+  term: Poverty status
+  grade: very significant
+- record_id: R01315
+  term: Adoption of recommended agricultural product marketing practices
+  grade: very significant
+- record_id: R01315
+  term: Aggregate crop yield
+  grade: no effect
+- record_id: R01315
+  term: Maize yield
+  grade: no effect
+- record_id: R01315
+  term: Income from agriculture
+  grade: no effect
+- record_id: R01315
+  term: Agricultural extension service technology use
+  grade: significant
+- record_id: R01315
+  term: Index of crop quality
+  grade: no information
+- record_id: R01315
+  term: Education level
+  grade: no effect
+- record_id: R01315
+  term: Index of household poverty
+  grade: no effect
+- record_id: R01315
+  term: Mobile phones
+  grade: significant
+- record_id: R01317
+  term: Boreholes and wells
+  grade: no information
+- record_id: R01317
+  term: Water delivery infrastructure
+  grade: no information
+- record_id: R01318
+  term: Deforestation
+  grade: neutral/mixed results
+- record_id: R01319
+  term: Forest coverage
+  grade: significant

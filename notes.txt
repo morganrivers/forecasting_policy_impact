@@ -1,0 +1,96 @@
+Here's what i think would be good.
+
+I want to collect data from a large number of up-to-date policy papers between year 1990 and 2025.
+
+I want to extract various relevant criteria that are common outcomes of policies. These are binary or categorical in nature. 
+
+If the policies have only one binary or categorical value, I need:
+	At least 200 need to be after year 2021. Ideally, the total is approximately 3000 or more separate policies. (Even if fine-tuning)
+If there are more values I can extract, I can use a smaller number of tests. For example, 40 papers after 2021 would be sufficient.
+
+My plan is to NOT fine tune, which really helps me because then the number of required "training" materials is smaller, and it's really easy to plug any model into the framework, including much stronger ones and update the performance. So then all the stuff before 2021 is intended as a means of RAG, in-context learning, etc.
+
+Current plan: 
+1. scrape the search result web pages for all the policies. I will be able to get a bunch of useful information, and also I will be able to download all the pdf's involved.
+
+I was able to find approximately 200 to 250 papers with results occurring after 2021.
+
+I chose 5 random ones.
+	 2/5 open access. 
+	 the first one had 6 separate outcomes, and the rest all only had one outcome. So averaging 2 outcomes per? But I would say this is perhaps unusual?
+
+
+
+
+
+---------------------------
+
+
+So far, clearly, we see (before deduplicating):
+Stechemesser et al: ~200 (15 past 2021)
+EEA: ~350 (0 past 2021)
+Hahn et al: ~100 (0 past 2021)
+
+**EEA catalogue of European environment and climate policy evaluations**
+The EEA catalogue of European environment and climate policy evaluations has many evaluations, it appears the latest one ends in 2020. That's because the entire thing was published in 2020.
+Out of 600 policies, it appears 248 have "no information" regarding a quantitative impact assessed.
+However, a significant fraction have CO2 emissions or equivalent.
+This link is the most helpful: 
+https://poleval-catalogue.apps.eea.europa.eu/
+
+CSV has some issues.
+
+Ultimately, we can likely extract approximately 350 impact assessments.
+I would guess approximately 175 CO2 emissions could be extracted with some work.
+Plus, we can find multiple useful fields.
+
+
+**policyimpacts.org**
+There is only one clear policy I could find: (UK)
+https://policyimpacts.org/policy-impacts-library/boiler-upgrade-scheme-heat-pump-subsidy/
+There are lots of quantified impacts, but not clearly sorted into policy related.
+Mostly RCT style things.
+Moving on for now.
+
+
+
+
+**3ie Development Evidence Portal (DEP)**
+
+Includes: Promoting Sustainable Energy Development through Access, Renewables and Efficient Technologies: An Evidence Gap Map Impact evaluations 668
+
+Overall, does not provide an already schematized and extracted set of evaluations.
+
+
+Climate Policy Database
+Appears to be identical to PINE??
+described here:
+	file:///home/dmrivers/Documents/Internship_Data_Collection/CPDB%20Codebook%20v1.3.pdf
+	https://climatepolicydatabase.org/methodology
+	-> appears to be a meta-database of many more databases, including 
+	IEA Policy Database	
+	Climate Watch	
+	NDCs - UNFCCC	
+	Climate Action Tracker	
+
+Notably: 184 rows for policies between 2021 and 2026. 
+
+	However, when I go through and print, I see relatively few, maybe 50 could be used optimistically. Also, the impact assessment is not very good:
+
+		9: High impact evaluation typology
+		Impact Description
+		High Policies identified by country-experts as policy interventions with high potential
+		impact in the coming decade (up to 2030), or policies included in national current
+		policy GHG projections.
+		Unclear Policies which were identified as high-impact policies by some experts, but not by
+		others or policies that were identified as high-impact but cannot be quantified due
+		to the lack of targets or impact indicators.
+		Unknown Policies that were not identified by national experts as high-impact policies or were
+		evaluated by national experts and were not explicitly included in national current
+		policy GHG projections.
+
+J-PAL Evaluation Database (Environment, Energy & Climate sector)
+	Could not identify any clear numbers in database. Essentially a paper repository.
+
+Climate Policies that Achieved Major Emission Reductions (Hahn et al.)
+	I already know this has about 100
