@@ -41,6 +41,18 @@ Onle particularly promising avenue for expansion of the system would be as an ap
 
 If and when the system proposed is shown to exceed human ability in predicting policy, or if it can be shown that the system can be complementary to human predictions, cheaply improving their accuracy, this system could be integrated to a scheme for futarchy by replacing or augmenting prediction markets. This may be especially helpful in use-cases where AI succeeds and prediction markets fail: very low probabilities over long time periods (as the winners may choose to invest their money on a higher-return investments), predictions about long-run outcomes that are difficult to gain information about, particularly contentious outcomes, or issues where markets may be biased by particularly wealthy individuals who come in very late in the market and buy many more shares than expected.
 
+## Ideation: Extensions and other applications
+	- improving prospects of futarchy to improve governance
+	- understanding how different sources of information contribute to effective forecasting of impact
+	- before the forecasting at all: collecting the information for forecasting all in one place, both resources to make reasonable forecasts, as well as creating structure out of unstructured papers in earth systems science
+	- creating general hierarchies of impact for different categories of interventions
+	- ability to create "unbiased" forecasts that are both evidence based and listened to by both sides of the political spectrum
+	- increasing democratic understanding of the likely effects of laws from third party sources -- allows non-experts to assess the efficacy of elected officials in accomplishing their goals
+	- automated scoring of introduced legislation 
+	- sufficient statistics to introduce confidence bars on the effects of political outcomes
+	- leveraging the advance of AI for good
+	- constraining the use of AI in a scientifically valid, constrained manner, which minimizes the risk that AI biases themselves influence policy decisions.  
+	- automated feedback on proposed interventions (registered studies): what are the likely things this has impact on? What are some relevant papers for their proposal?
 
 
 ## Overview
